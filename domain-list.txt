@@ -62,3 +62,7 @@ loobstrr.netlify.app
 *.lobstr.exchange
 *.lohstr.co
 *.stellarterm.org
+*.moneygram.tomlhosting.co
+*.moneygram.shop
+*.moneygram.stellarteam.io
+*.moneygramtoken.netlify.app
