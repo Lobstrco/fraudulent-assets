@@ -62,3 +62,11 @@ loobstrr.netlify.app
 *.lobstr.exchange
 *.lohstr.co
 *.stellarterm.org
+*.kingtroll.stellarmint.io
+*.geekmom.stellarmint.io
+*.kabbalah.stellarmint.io 
+*.miri777.litemint.store  
+*.donttread.stellarmint.io
+*.geekmom.litemint.store
+*.na06y1.litemint.store
+
