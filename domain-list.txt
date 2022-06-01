@@ -62,4 +62,5 @@ loobstrr.netlify.app
 *.lobstr.exchange
 *.lohstr.co
 *.stellarterm.org
+*.krungsri.finance
 *.stellarqfi.org
