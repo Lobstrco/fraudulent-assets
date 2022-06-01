@@ -63,3 +63,4 @@ loobstrr.netlify.app
 *.lohstr.co
 *.stellarterm.org
 *.krungsri.finance
+*.stellarqfi.org
