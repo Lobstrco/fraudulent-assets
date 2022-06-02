@@ -64,3 +64,9 @@ loobstrr.netlify.app
 *.stellarterm.org
 *.krungsri.finance
 *.stellarqfi.org
+*.indusx.tech
+*.moneygram.tomlhosting.co
+*.bpfinvest.fund
+*.turkeystellar.org
+*.quantum-stellar-initiative.org
+*.stellarport.exchange
