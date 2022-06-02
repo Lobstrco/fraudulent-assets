@@ -75,7 +75,6 @@ loobstrr.netlify.app
 *.Indus.gold
 *.stellarindus.gold
 *.indus.org
-*.stellarmint.io
 *.indus.money
 *.brics.indus.bond
 *.Indus.org
@@ -92,7 +91,6 @@ loobstrr.netlify.app
 *.vbrf.digital
 *.stellarpool.net
 *.turkeystellars.org
-*.stellar-assets.net
 *.Turkeystellar.org 
 *.itauutilities.co
 *.bpfInvest.fund
@@ -106,3 +104,9 @@ loobstrr.netlify.app
 *.lndus.gold
 *.giantstellar.com
 *.maststellar.com
+*.indusx.tech
+*.moneygram.tomlhosting.co
+*.bpfinvest.fund
+*.turkeystellar.org
+*.quantum-stellar-initiative.org
+*.stellarport.exchange
