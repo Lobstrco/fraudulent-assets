@@ -19,7 +19,7 @@ assignees: star-dust-one
 ### Specific domain(s) of asset
 
 <!-- Optional -->
-### The source where suspicious assets are mentioned (e.g. Telegram groups, WhatsApp, Facebook, etc)
+### The source where suspicious assets are mentioned (e.g. Telegram/WhatsApp/Facebook links)
 
 <!-- Optional -->
-### Other comments about suspicious assets
+Evidence of fraud (e.g. screenshots, links with complaints, or any other proof)

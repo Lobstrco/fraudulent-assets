@@ -16,7 +16,7 @@ assignees: star-dust-one
 ### The reason why you think we need to blacklist these domains
 
 <!-- Optional -->
-### The source where suspicious domains are mentioned (e.g. Telegram groups, WhatsApp, Facebook, etc)
+### The source where suspicious domains are mentioned (e.g. Telegram/WhatsApp/Facebook links)
 
 <!-- Optional -->
-### Other comments about suspicious domains
+Evidence of fraud (e.g. screenshots, links with complaints, or any other proof)
