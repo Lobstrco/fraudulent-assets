@@ -19,4 +19,4 @@ assignees: star-dust-one
 ### The source where suspicious domains are mentioned (e.g. Telegram/WhatsApp/Facebook links)
 
 <!-- Optional -->
-Evidence of fraud (e.g. screenshots, links with complaints, or any other proof)
+### Evidence of fraud (e.g. screenshots, links with complaints, or any other proof)
