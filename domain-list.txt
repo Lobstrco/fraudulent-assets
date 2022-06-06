@@ -161,3 +161,8 @@ loobstrr.netlify.app
 *.xlmline.com
 *.xlmstar.net
 *.dstoq.tech
+*.stellarasset.co
+*.quantumstellar.tech
+*.stellar-go.com
+*.strongholdtesla.org
+*.stocks-on-stellar.org
