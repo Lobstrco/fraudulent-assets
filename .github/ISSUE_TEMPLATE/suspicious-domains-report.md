@@ -1,7 +1,7 @@
 ---
 name: Suspicious domains report
 about: Tell us about suspicious domains you found
-title: 'Suspicious domains: <domain name>'
+title: 'Suspicious domains: "domain name"'
 labels: ''
 assignees: star-dust-one
 

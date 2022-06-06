@@ -1,7 +1,7 @@
 ---
 name: Suspicious assets report
 about: Tell us about suspicious assets you found
-title: 'Suspicious assets: <asset name>'
+title: 'Suspicious assets: "asset name"'
 labels: ''
 assignees: star-dust-one
 
