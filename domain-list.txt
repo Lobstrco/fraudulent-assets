@@ -160,3 +160,4 @@ loobstrr.netlify.app
 *.xlmlab.com
 *.xlmline.com
 *.xlmstar.net
+*.dstoq.tech
