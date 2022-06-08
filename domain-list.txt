@@ -166,3 +166,11 @@ loobstrr.netlify.app
 *.stellar-go.com
 *.strongholdtesla.org
 *.stocks-on-stellar.org
+*.moneygram.tomlhostlng.co
+*.moneygram.tomlhosting.io
+*.stellar-moneygram.com
+*.blackbox-exchange.org
+*.moneygram.stellarteam.io
+*.stellarflare.org
+*.masterstellar.com
+*.stellarchips.com
