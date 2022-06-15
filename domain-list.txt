@@ -339,3 +339,5 @@ loobstrr.netlify.app
 *.turkish-gems.co
 *.rusian-assets.digital
 *.bpflnvest.fund
+*.ultimatum.network
+*.cb-bitnickel.co
