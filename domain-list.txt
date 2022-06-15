@@ -239,3 +239,10 @@ loobstrr.netlify.app
 *.bfalliance.exchange
 *.rabo.earth
 *.ubsinnovations.capital
+*.indus.social
+*.uniquestellar.org
+*.russia.usdn.tech
+*.mallstellar.com
+*.induspayment.exchange
+*.induspayment.org
+*.stellarmarket.stellarmint.io
