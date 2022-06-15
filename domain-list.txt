@@ -236,3 +236,6 @@ loobstrr.netlify.app
 *.stellardigitalcurrencies.com
 *.stellarstoq.com
 *.iso20022coins.org
+*.bfalliance.exchange
+*.rabo.earth
+*.ubsinnovations.capital
