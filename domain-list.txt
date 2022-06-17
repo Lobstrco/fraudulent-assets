@@ -1,3 +1,4 @@
+*.ultrastellar.com
 *.pendulumsafe.pw
 *.pendulum.pw
 *.stellar-dex.io
