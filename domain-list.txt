@@ -513,3 +513,11 @@ loobstrr.netlify.app
 *.1933gaudens.stellarmint.io
 *.resonagroup.fund
 *.realio.fund
+*.resonagrup.fund
+*.cryptostellar.trade
+*.stellartokens.trade
+*.stellardex.exchange
+*.stellarium.exchange
+*.miota.netlify.app
+*.xlmmiota.netlify.app
+*.kazakhresources.io
