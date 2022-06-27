@@ -456,7 +456,6 @@ loobstrr.netlify.app
 *.thecontinuum.ca
 *.quantum-tokens.org
 *.luxor.tomlhosting.co
-*.driftxhub.com
 *.cicada.xmint.io
 *.stellar-metaverse.com
 *.stellar-networks.co
@@ -626,3 +625,9 @@ loobstrr.netlify.app
 *.stelarmongolia.org
 *.elonstellar.com
 *.stellar-au.org
+*.stellar.claims
+*.tendaogold.org
+*.shanghaicoop.org
+*.stellarazerbaijan.com
+*.ksgoldmining.org
+*.projectaurora.me
