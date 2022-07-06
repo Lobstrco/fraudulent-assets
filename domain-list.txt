@@ -414,7 +414,6 @@ loobstrr.netlify.app
 *.zodaictokens.org
 *.stellar-team.org
 *.dlx.stellarteam.org
-*.usdc.gold
 *.emergency-tokens.stellarteam.org
 *.stellarliquidity.com
 *.stellarmarket.exchange
