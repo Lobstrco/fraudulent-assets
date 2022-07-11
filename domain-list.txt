@@ -332,7 +332,6 @@ loobstrr.netlify.app
 *.stellar-fusion.com
 *.xgate.one
 *.shiba-stellar.com
-*.afreum.net
 *.xflare.network
 *.elon.stellarforge.co
 *.itautilities.co
@@ -682,3 +681,6 @@ loobstrr.netlify.app
 *.peppo.tech
 *.syngenta.tech
 *.stellarusa.org
+*.stellararabia.org
+*.stellaruzbekistan.org
+*.nbuz.digital
