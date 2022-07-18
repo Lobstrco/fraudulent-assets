@@ -684,3 +684,11 @@ loobstrr.netlify.app
 *.stellararabia.org
 *.stellaruzbekistan.org
 *.nbuz.digital
+*.australiamines.digital
+*.france-assets.com
+*.bisinnovations.capital
+*.exlm.org
+*.stellar5x.com
+*.elon-steliar.org
+*.area51.vip
+*.s-switzerland.com
