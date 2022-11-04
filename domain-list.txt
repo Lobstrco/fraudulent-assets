@@ -858,3 +858,5 @@ xrpxau.stellarmint.io
 *.northkorea-assets.digital
 *.vietnam-assets.digital
 *.theline-stellar.org
+*.aud.global
+*.xmlnt.com
