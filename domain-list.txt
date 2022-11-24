@@ -863,3 +863,17 @@ xrpxau.stellarmint.io
 *.stellareba.com
 *.ceermotors.com
 *.projectcnaps.com
+*.qatarworldcup.tech
+*.stellarsimba.com
+*.galaxymints.com
+*.lnterstellar.exchange
+*.stellarxlm.us
+*.stellarterm.claims
+*.indus-gold.financial
+*.stellarport.claims
+*.xstellar.world
+*.iso20022.trade
+*.aqua.claims
+*.ultrastellar.claims
+*.steiiarport.network
+*.uitrasteilar.com
