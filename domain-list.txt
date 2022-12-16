@@ -900,3 +900,6 @@ xrpxau.stellarmint.io
 *.xdc-co.org
 *.lso20022coins.com
 *.rippie.claims
+*.stellarbase.org
+*.projectemaar.com
+*.jebelalipalm.tech
