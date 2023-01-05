@@ -1,5 +1,5 @@
 *.1754.digital
-1933gaudens.stellarmint.io
+*.1933gaudens.stellarmint.io
 *.aber.fund
 *.action-patriots.com
 *.africa-mr.com
@@ -903,3 +903,5 @@ xrpxau.stellarmint.io
 *.stellarbase.org
 *.projectemaar.com
 *.jebelalipalm.tech
+*.stellarcolombia.com
+*.stellarmojaloop.com
