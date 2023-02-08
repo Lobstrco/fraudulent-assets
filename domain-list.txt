@@ -905,3 +905,5 @@ xrpxau.stellarmint.io
 *.jebelalipalm.tech
 *.stellarcolombia.com
 *.stellarmojaloop.com
+*.qatarinvestment.tech
+*.projectsmartcrowd.com
