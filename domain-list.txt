@@ -907,3 +907,11 @@ xrpxau.stellarmint.io
 *.stellarmojaloop.com
 *.qatarinvestment.tech
 *.projectsmartcrowd.com
+*.flare.claims
+*.quantumassets.org
+*.stellar-launchpad.com
+*.oneswissbank.finance
+*.stellarport.finance
+*.whiplash.digital
+*.elon-quantum-stellar.org
+*.xinfin.claims
