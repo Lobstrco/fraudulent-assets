@@ -915,3 +915,11 @@ xrpxau.stellarmint.io
 *.whiplash.digital
 *.elon-quantum-stellar.org
 *.xinfin.claims
+*.doge-ai.org
+*.smartxlm.com
+*.mxlm.org
+*.stellar-uae.digital
+*.stellar-bahrain.digital
+*.stellarprojectsrussia.com
+*.stellar-ril.digital
+*.stellarbusanbank.com
