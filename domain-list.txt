@@ -1080,3 +1080,17 @@ fchainx.io
 *.project-guardian.com
 *.exlm.trading
 *.binance.law
+*.fchain.exchange
+*.velopayments.org
+*.stellar-velo.com
+*.lobstr.com.co
+*.goldlobstr.netlify.app
+*.xlmlostr.netlify.app
+*.stellar-loop.exchange
+*.emaarkhalifa.netlify.app
+*.asset.stellarprojects.org
+*.adx-stellar.com
+*.velotoken.org
+*.velo-network.org
+*.velo-payment.org
+*.ultrastellar.com.co
