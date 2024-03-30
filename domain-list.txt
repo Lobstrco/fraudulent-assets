@@ -1094,3 +1094,10 @@ fchainx.io
 *.velo-network.org
 *.velo-payment.org
 *.ultrastellar.com.co
+*.velopayment.co
+*.velo-payment.com
+*.stellarsolana.com
+*.sp500.group
+*.ystronghold.co
+*.velolab.network
+*.velolabs.net
