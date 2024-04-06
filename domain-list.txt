@@ -1101,3 +1101,11 @@ fchainx.io
 *.ystronghold.co
 *.velolab.network
 *.velolabs.net
+*.velostellar.org
+*.velo.org.so
+*.xcrypto.gold
+*.velostellar.co
+*.payment-velo.org
+*.velo-token.com
+*.velofinance.net
+*.velostellar.network
