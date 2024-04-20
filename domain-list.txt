@@ -839,6 +839,7 @@
 *.stellarussla.io
 *.stellaruzbekistan.org
 *.stellar-velo.com
+*.stellar-velo.org
 *.stellarvenezuela.com
 *.stellar-whiplash.com
 *.stellarworld.digital
@@ -921,6 +922,7 @@
 *.trump.investments
 *.trust-bank.org
 *.trust-coin.net
+*.trustlines.xyz
 *.turkey-stellar.com
 *.turkeystellar.com
 *.turkey-stellar.org
@@ -987,9 +989,12 @@
 *.velo.fund
 *.velolab.co
 *.velolab.network
+*.velolabs.io
 *.velolabs.net
+*.velolabs.network
 *.velolabs.org
 *.velo.markets
+*.velonet.tech
 *.velo.network
 *.velo-network.org
 *.velo.org.so
@@ -1002,6 +1007,7 @@
 *.veloprotocol.org
 *.velostellar.co
 *.velo-stellar.com
+*.velostellar.com
 *.velostellar.network
 *.velostellar.org
 *.velo-token.com
@@ -1075,6 +1081,7 @@
 *.yaqua.network
 *.yieldaqua.network
 *.yieldstronghold.co
+*.ystellar.org
 *.ystronghold.co
 *.z-finance-system.vercel.app
 *.zimbabwe-mr.com
