@@ -348,6 +348,7 @@
 *.lumensly.com
 *.lumensstore.com
 *.lumensswap.com
+*.lumensworld.com
 *.luxbank.co
 *.maerskcom.digital
 *.maerskcorn.digital
@@ -501,6 +502,7 @@
 *.quantum-tech.exchange
 *.quantum-tokens.org
 *.quanturn-system.finance
+*.qya.finance
 *.r3network.org
 *.rabo.earth
 *.rabostellar.com
@@ -838,6 +840,7 @@
 *.stellarussia.io
 *.stellarussla.io
 *.stellaruzbekistan.org
+*.stellarvault.io
 *.stellar-velo.com
 *.stellar-velo.org
 *.stellarvenezuela.com
@@ -866,6 +869,7 @@
 *.stronghoid.com
 *.strongholcl.co
 *.strongholcl.com
+*.strongholcl.org
 *.strongholdasset.org
 *.stronghold.claims
 *.strong-hold.co
@@ -983,7 +987,9 @@
 *.vebrfr.digital
 *.vebrfs.digital
 *.velo.cash
+*.velochain.network
 *.velo.exchange
+*.velofinance.co
 *.velofinance.net
 *.velo.financial
 *.velo.fund
@@ -996,6 +1002,7 @@
 *.velo.markets
 *.velonet.tech
 *.velo.network
+*.velonetwork.io
 *.velo-network.org
 *.velo.org.so
 *.velopayment.co
@@ -1005,6 +1012,7 @@
 *.velopayments.org
 *.velopay.org
 *.veloprotocol.org
+*.velo-stellar.co
 *.velostellar.co
 *.velo-stellar.com
 *.velostellar.com
@@ -1066,6 +1074,7 @@
 *.xlm.stellar-techpoint.exchange
 *.xlmstocks.com
 *.xlm.ultrastellar-quantum.org
+*.xlmvault.org
 *.xlmvelo.netlify.app
 *.xlumen.cc
 *.xmintstellar.com
