@@ -471,6 +471,7 @@
 *.quantuldollars.digital
 *.quantumassets.finance
 *.quantumassets.org
+*.quantum.coin-peddler.org
 *.quantumdollar.digital
 *.quantum-finance-network.org
 *.quantum-finance-system.org
@@ -489,6 +490,7 @@
 *.quantum-stellar-initiative.com
 *.quantum-stellar-initiative.org
 *.quantum.stellar-loop.exchange
+*.quantum.stellar-peddler.exchange
 *.quantum-stellar-system.org
 *.quantumstellar.tech
 *.quantum-stellar.top
@@ -761,6 +763,7 @@
 *.stellarpapuanewguinea.com
 *.stellar-paraguay.digital
 *.stellarpay.org
+*.stellar-peddler.exchange
 *.stellarperu.net
 *.stellarphilippines.net
 *.stellarpieces.com
@@ -966,6 +969,7 @@
 *.ultrastellar.ml
 *.ultrastellar.network
 *.ultra-stellar.org
+*.ultrastellar-quantum.org
 *.ultrastellar.shop
 *.ultrastellar.trade
 *.uninnovations.org
@@ -999,6 +1003,7 @@
 *.velolabs.net
 *.velolabs.network
 *.velolabs.org
+*.velolab.tech
 *.velo.markets
 *.velonet.tech
 *.velo.network
@@ -1089,6 +1094,7 @@
 *.xtokens.co
 *.yaqua.network
 *.yieldaqua.network
+*.yieldripple.com
 *.yieldstronghold.co
 *.ystellar.org
 *.ystronghold.co
@@ -1122,8 +1128,10 @@ stellartokens.stellarmint.io
 stellartron.netlify.app
 tech.lndus.org
 trumpcoin.stellarmint.io
+velo.us.org
 xlmhbar.netlify.app
 xlmmatic.netlify.app
 xlmmiota.netlify.app
 xrpvault.stellarmint.io
 xrpxau.stellarmint.io
+yvelo.org
