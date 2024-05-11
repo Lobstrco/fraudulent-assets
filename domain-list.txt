@@ -13,6 +13,7 @@
 *.akash-network
 *.algo-dex.org
 *.algodex.trade
+*.alrajhistellar.com
 *.anchored-tokens.org
 *.anclap.io
 *.anon-inu.com
@@ -460,6 +461,7 @@
 *.qatar.stellar-dex.io
 *.qatarworldcup.tech
 *.qazkom.digital
+*.qec.finance
 *.qfs.tech
 *.qfs-tokens.org
 *.qlm.finance
@@ -522,6 +524,7 @@
 *.resonagrup.fund
 *.resonasgrup.fund
 *.rippie.claims
+*.ripplechina.org
 *.ripplenet.ai
 *.rippleteam.org
 *.ripple.us.org
@@ -843,6 +846,7 @@
 *.stellarussia.io
 *.stellarussla.io
 *.stellaruzbekistan.org
+*.stellarvault.co
 *.stellarvault.io
 *.stellar-velo.com
 *.stellar-velo.org
@@ -999,6 +1003,7 @@
 *.velo.fund
 *.velolab.co
 *.velolab.network
+*.velolabs.co
 *.velolabs.io
 *.velolabs.net
 *.velolabs.network
@@ -1022,6 +1027,7 @@
 *.velo-stellar.com
 *.velostellar.com
 *.velostellar.network
+*.velo-stellar.org
 *.velostellar.org
 *.velo-token.com
 *.velotoken.net
