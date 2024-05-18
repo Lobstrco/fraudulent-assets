@@ -50,6 +50,7 @@
 *.binance-stellar.exchange
 *.bisinnovations.capital
 *.bitbox.exchange
+*.bitcoinstocks.exchange
 *.bitt.network
 *.blackbox.exchange
 *.blackbox-exchange.com
@@ -175,6 +176,7 @@
 *.etoro.investments
 *.etoro.market
 *.etoro-stellar.org
+*.etoro-stocks.com
 *.etxco.co
 *.eurb.digital
 *.exemusexchange.stellarteam.org
@@ -186,6 +188,7 @@
 *.fchain.exchange
 *.fchainxrp.io
 *.flare-assets.com
+*.flareassets.com
 *.flare.claims
 *.flare-finance.io
 *.flare-network.exchange
@@ -424,6 +427,7 @@
 *.peppo.tech
 *.pharma.indus.exchange
 *.phub.stellarmint.io
+*.pi-network.io
 *.platinum.stellar-commodities.com
 *.poland-minerals.digital
 *.powerstellar.com
@@ -961,6 +965,7 @@
 *.ultimatum.network
 *.ultimatums.network
 *.ultlmatum.network
+*.ultracapital.io
 *.ultrastelar.com
 *.ultrastellar.ai
 *.ultrastellar.claims
@@ -995,6 +1000,7 @@
 *.vebrfr.digital
 *.vebrfs.digital
 *.velo.cash
+*.velochain.net
 *.velochain.network
 *.velo.exchange
 *.velofinance.co
@@ -1009,11 +1015,13 @@
 *.velolabs.network
 *.velolabs.org
 *.velolab.tech
+*.velo.lumens-stellar.com
 *.velo.markets
 *.velonet.tech
 *.velo.network
 *.velonetwork.io
 *.velo-network.org
+*.velonetworks.io
 *.velo.org.so
 *.velopayment.co
 *.velo-payment.com
@@ -1102,8 +1110,11 @@
 *.yieldaqua.network
 *.yieldripple.com
 *.yieldstronghold.co
+*.yripple.com
+*.ystellar.com
 *.ystellar.org
 *.ystronghold.co
+*.yxlm-ultra.com
 *.z-finance-system.vercel.app
 *.zimbabwe-mr.com
 *.zodaictokens.org
