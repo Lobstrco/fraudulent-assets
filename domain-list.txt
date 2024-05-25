@@ -660,6 +660,7 @@
 *.stellar-commodities.com
 *.stellarcongo.com
 *.stellarcotedlvoire.com
+*.stellarcrypto.org
 *.stellar-cuba.digital
 *.stellarcustody.gold
 *.stellardevelopers.dev
@@ -1005,6 +1006,7 @@
 *.velo.exchange
 *.velofinance.co
 *.velofinance.net
+*.velofinance.tech
 *.velo.financial
 *.velo.fund
 *.velolab.co
@@ -1086,6 +1088,7 @@
 *.xlmlab.com
 *.xlmline.com
 *.xlmlostr.netlify.app
+*.xlmorphixstellar.com
 *.xlm.services
 *.xlm.space-tech.exchange
 *.xlmstar.net
