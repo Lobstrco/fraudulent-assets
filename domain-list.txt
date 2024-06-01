@@ -1031,6 +1031,7 @@
 *.velopayment.org
 *.velopayments.org
 *.velopay.org
+*.veloprotocol.net
 *.veloprotocol.org
 *.velo-stellar.co
 *.velostellar.co
