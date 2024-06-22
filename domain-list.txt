@@ -57,6 +57,7 @@ atmosphere.stellarmint.io
 *.blackbox.exchange
 *.blackbox-exchange.com
 *.blackbox-exchange.org
+*.blackrock.co.com
 *.blackrock.com.ai
 *.blessstone.tech
 *.blnance.finance
@@ -176,6 +177,8 @@ elon.stellarforge.co
 *.emergency-tokens.stellarteam.org
 *.emily.exchange
 *.enaira.usdf.tech
+*.eniz.io
+*.eniz.org
 *.e-rus.com
 *.e-russ.com
 *.etoro-commodities.com
@@ -229,12 +232,14 @@ fchainx.io
 *.global-lumens.com
 *.globallumens.com
 *.global-lumensnetwork.com
+*.global-stellarnetwork.com
 *.global-stellar.org
 *.go-dls.com
 *.goldlobstr.netlify.app
 *.gold.stellar-commodities.com
 gold.stellarmint.io
 *.gov.stellarbonds.exchange
+*.grayscale.co.com
 *.gwallet.tech
 *.helium.tech
 *.hiddenstellar.com
@@ -350,6 +355,7 @@ italy.stellar-dex.io
 *.lobstrnetwork.com
 *.lobstrr.co
 *.lobstrr.com
+*.lobstr-stocks.com
 *.lobstr.trade
 *.lobstrvault.com
 *.lohstr.co
@@ -538,6 +544,7 @@ qsi.xmint.io
 *.rare-tokens.org
 *.raretokens.org
 *.realestate.indus.exchange
+*.reallumens.com
 *.realmagacoin.org
 *.realstellar.com
 *.refineries.stellar-dex.io
@@ -830,6 +837,7 @@ stellarmarket.stellarmint.io
 *.stellarspace.tech
 *.stellar-square.com
 *.stellarsquare.com
+*.stellarstocks.exchange
 *.stellarstoq.claims
 *.stellarstoq.com
 *.stellarstudio.net
@@ -890,6 +898,7 @@ stellartron.netlify.app
 *.stellar-x.ai
 *.stellarx.claims
 *.stellarx.exchange
+*.stellarx.expert
 *.stellar-xgate.one
 *.stellarxlm.org
 *.stellarxlm.us
@@ -1045,9 +1054,11 @@ trumpcoin.stellarmint.io
 *.velolab.network
 *.velolabs.co
 *.velolabs.io
+*.velolabs.lumens-stellar.com
 *.velolabs.net
 *.velolabs.network
 *.velolabs.org
+*.velolabs.stellar-network.org
 *.velolabs.tech
 *.velolab.stellar-network.org
 *.velolab.tech
@@ -1063,6 +1074,7 @@ trumpcoin.stellarmint.io
 *.velo-payment.com
 *.velo-payment.org
 *.velopayment.org
+*.velopayments.io
 *.velopayments.org
 *.velopay.org
 *.veloprotocol.net
@@ -1076,6 +1088,7 @@ trumpcoin.stellarmint.io
 *.velo.stellar-network.org
 *.velo-stellar.org
 *.velostellar.org
+*.velotoken.co
 *.velo-token.com
 *.velotoken.lumens-stellar.com
 *.velotoken.net
@@ -1085,6 +1098,7 @@ trumpcoin.stellarmint.io
 *.velo.trading
 velo.us.org
 *.velo.velopayments.io
+*.velo.velotoken.co
 *.venezueiastellar.org
 *.venezuelastellar.org
 *.venturecapitals.stellar-dex.io
@@ -1162,6 +1176,7 @@ xrpxau.stellarmint.io
 *.yripple.com
 *.ystellar.com
 *.ystellar.org
+*.ystellar.xyz
 *.ystronghold.co
 yvelo.org
 *.yxlm-ultra.com
