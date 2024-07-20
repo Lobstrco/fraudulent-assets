@@ -140,6 +140,7 @@ ctgx-stellarmint.io
 ctgx.stellarmint.io
 *.ctgx-stellarmint.net
 *.ctgx.stellarmlnt.io
+*.cyber-techmology.org
 *.cyber-technologies.org
 *.cyber-technology.org
 *.cyber-technoloqy.org
@@ -179,6 +180,7 @@ dstoq.tech
 *.earthprojectalpha.com
 *.eastellar.com
 *.e-currency.io
+*.eforo.forex
 *.egyptpayments.org
 *.eionsteiiar.com
 *.eionsteliar.com
@@ -286,6 +288,7 @@ gold.stellarmint.io
 *.imdus.gold
 *.inclus.exchange
 *.inclus.gold
+*.indices365.com
 *.indus.bond
 *.indusbond.com
 *.indus.business
@@ -309,6 +312,7 @@ indusgold.stellarmint.io
 *.induspayment.com
 *.induspayment.exchange
 *.induspayment.org
+*.induspayments.capital
 *.induspayments.com
 *.induss.gold
 *.indus.social
@@ -434,6 +438,7 @@ luxor.tomlhosting.co
 *.metallurgy.stellar-dex.io
 *.metals-on-stellar.org
 *.metalsstellar.com
+*.metalsstellar.digital
 *.metalsstellar.org
 *.metalstocks.org
 *.meta.stellar.onl
@@ -533,6 +538,7 @@ preciousxrp.stellarmint.io
 *.project-spia.com
 *.project-stellar.com
 *.project-stellar.org
+*.project-ustn.digital
 *.projectxdc.digital
 *.publicstellar.com
 *.purestellar.org
@@ -569,6 +575,7 @@ qsi.xmint.io
 *.quantum-gesara.org
 *.quantum.indus.exchange
 *.quantummetals.com
+*.quantummetals.org
 *.quantum.org
 *.quantum.org.so
 *.quantumripple.org
@@ -580,6 +587,7 @@ qsi.xmint.io
 *.quantum-stellar-initiative.com
 *.quantum-stellar-initiative.org
 *.quantum.stellar-loop.exchange
+*.quantumstellar.org
 *.quantum.stellar-peddler.exchange
 *.quantum-stellar-system.org
 *.quantumstellar.systems
@@ -596,6 +604,7 @@ qsi.xmint.io
 *.quantum-tech.exchange
 *.quantum-tokens.org
 *.quanturn-system.finance
+*.quatumstellar.ai
 *.qya.finance
 *.r3network.org
 *.rabo.earth
@@ -615,6 +624,7 @@ qsi.xmint.io
 *.resonagrup.fund
 *.resonasgrup.fund
 *.rippie.claims
+*.rippleasset.org
 *.ripplechina.org
 *.ripplefox.org
 *.ripplenet.ai
@@ -965,6 +975,7 @@ stellartron.netlify.app
 *.stellaruzbekistan.org
 *.stellarvault.co
 *.stellarvault.io
+*.stellarvelo.co
 *.stellar-velo.com
 *.stellarvelo.com
 *.stellar-velo.org
@@ -987,6 +998,7 @@ stellartron.netlify.app
 *.stepchain.co
 *.stepn.netlify.app
 *.stockassets.exchange
+*.stocksequities.com
 *.stocks-on-stellar.org
 *.stocks-stellar.com
 *.stocksstellar.com
@@ -1033,6 +1045,7 @@ tech.lndus.org
 *.tempocrypto.org
 *.tendaogoid.org
 *.tendaogold.org
+*.teslastellar.com
 *.testlar.com
 *.thecontinuum.ca
 *.thefarsights.net
@@ -1116,6 +1129,7 @@ trumpcoin.stellarmint.io
 *.usa-banks.top
 *.usa.stellar-dex.io
 *.utimatum.network
+*.vanguard-etfs.org
 *.vbrf.digital
 *.vdcs.digital
 *.vdcs.io
@@ -1126,6 +1140,7 @@ trumpcoin.stellarmint.io
 *.vebrfr.digital
 *.vebrfs.digital
 *.veloasset.com
+*.veloassets.org
 *.velo.cash
 *.velochain.net
 *.velochain.network
@@ -1136,7 +1151,9 @@ trumpcoin.stellarmint.io
 *.velofinance.tech
 *.velo.financial
 *.velo.fund
+*.velohub.lumens-projects.com
 *.velolab.co
+*.velolab.digital
 *.velolab.lumens-projects.com
 *.velolab.lumens-stellar.com
 *.velolab.network
@@ -1199,6 +1216,7 @@ velo.us.org
 *.velo.velotoken.co
 *.velo.velo.us.com
 *.veloxionlab.com
+*.veloxionlabs.com
 *.veloxion.lumens-projects.com
 *.velox.velo.us.com
 *.venezueiastellar.org
@@ -1210,10 +1228,12 @@ velo.us.org
 *.vestinwolf.in
 *.vietnam-assets.digital
 *.vitol.digital
+*.vitol.exchange
 *.watches.indus.exchange
 *.wealthfunds.stellar-dex.io
 *.web.crypto-lumens.digital
 *.whiplash347.com
+*.whiplash347.exchange
 *.whiplash.community
 *.whiplash.digital
 *.whiplash.exchange
@@ -1235,6 +1255,7 @@ velo.us.org
 *.xdc-co.net
 *.xdc-co.org
 *.xdcco.org
+*.x-elon.exchange
 *.x-elon.org
 *.x-exchange.org
 *.xflare.network
