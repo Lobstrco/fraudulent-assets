@@ -57,6 +57,7 @@ atmosphere.stellarmint.io
 *.bitbox.exchange
 *.bitcoinbank.gold
 *.bitcoinstocks.exchange
+*.bitcoinstocks.foundation
 *.bitcoinstocks.network
 *.bitt.network
 *.blackbox.exchange
@@ -93,6 +94,7 @@ atmosphere.stellarmint.io
 *.bricst-stellar.com
 *.brics.xmint.io
 *.bulgaria-minerals.digital
+*.bulletproof-trump.org
 *.casper.gold
 *.cb-bitnickel.co
 *.cb-bitnlckel.co
@@ -106,6 +108,7 @@ atmosphere.stellarmint.io
 *.ceermotors.com
 *.celo.pw
 *.centerstellar.com
+*.centre.claims
 *.cheaptokens.org
 *.chemitoken.org
 *.chemitokens.com
@@ -265,6 +268,7 @@ fchainx.io
 *.global-stellarnetwork.com
 *.global-stellar.org
 *.go-dls.com
+*.gold-indus.bond
 *.goldindus.bond
 *.goldlobstr.netlify.app
 *.gold.stellar-commodities.com
@@ -333,6 +337,7 @@ indusgold.stellarmint.io
 *.iso20022-assets.com
 *.iso20022assets.com
 *.iso20022assets.org
+*.iso20022.bargains
 *.iso20022-coins.com
 *.iso20022coins.org
 *.iso20022coins.solutions
@@ -432,6 +437,7 @@ luxor.tomlhosting.co
 *.masterstellar.com
 *.meme.australian-stellar.digital
 *.meme.quantum-station.exchange
+*.memestellar.com
 *.memetokens.store
 *.merchantcoin.online
 *.mergetokens.com
@@ -578,12 +584,14 @@ qsi.xmint.io
 *.quantummetals.org
 *.quantum.org
 *.quantum.org.so
+*.quantumripple.network
 *.quantumripple.org
 *.quantum-space.org
 *.quantum.space-tech.exchange
 *.quantumstellar.ai
 *.quantumstellar.digital
 *.quantumstellar.foundation
+*.quantumstellar.gold
 *.quantum-stellar-initiative.com
 *.quantum-stellar-initiative.org
 *.quantum.stellar-loop.exchange
@@ -919,6 +927,7 @@ stellarmarket.stellarmint.io
 *.stellarspace.tech
 *.stellar-square.com
 *.stellarsquare.com
+*.stellarstocks.bond
 *.stellarstocks.exchange
 *.stellar-stocks.org
 *.stellarstoq.claims
@@ -1068,6 +1077,7 @@ tech.lndus.org
 trumpcoin.stellarmint.io
 *.trump.forex
 *.trump.investments
+*.trump-real.estate
 *.trump-realestate.com
 *.trumptokens.org
 *.trust-bank.org
@@ -1126,6 +1136,7 @@ trumpcoin.stellarmint.io
 *.uptownstellar.com
 *.uranium.stellar-commodities.com
 *.uranium.stellar-dex.io
+*.usa-banks.bond
 *.usa-banks.top
 *.usa.stellar-dex.io
 *.utimatum.network
@@ -1312,6 +1323,7 @@ xrpxau.stellarmint.io
 *.yieldvelo.org
 *.yripple.com
 *.ystellar.capital
+*.ystellar.co
 *.ystellar.com
 *.ystellar.org
 *.ystellar.xyz
