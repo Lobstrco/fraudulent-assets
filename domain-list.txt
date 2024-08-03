@@ -20,6 +20,7 @@
 *.anon-inu.com
 *.aqua.claims
 *.aqua.forex
+*.aqua-guardian.digital
 *.aqua.markets
 *.aqua-network.org
 *.aqua-stellar.com
@@ -56,6 +57,7 @@ atmosphere.stellarmint.io
 *.bisinnovations.capital
 *.bitbox.exchange
 *.bitcoinbank.gold
+*.bitcoinstellar.xyz
 *.bitcoinstocks.exchange
 *.bitcoinstocks.foundation
 *.bitcoinstocks.network
@@ -157,6 +159,7 @@ ctgx.stellarmint.io
 *.deluxe-indus.exchange
 *.devland.network
 *.dexgate.co
+*.dex.stellarfusion.org
 digitalfinance.stellarmint.io
 *.digital-indus.exchange
 *.digital.lndus.exchange
@@ -261,6 +264,7 @@ fchainx.io
 *.giantstellar.com
 *.giga-doge.com
 *.global-assets.digital
+*.global-estate.co
 *.globalhublumens.com
 *.global-lumens.com
 *.globallumens.com
@@ -408,6 +412,7 @@ italy.stellar-dex.io
 *.lobstr-stocks.com
 *.lobstr.trade
 *.lobstrvault.com
+*.lobstrvault.org
 *.lohstr.co
 loobstrr.netlify.app
 *.lso20022coins.com
@@ -427,6 +432,7 @@ loobstrr.netlify.app
 *.lumensworld.com
 *.luxbank.co
 luxor.tomlhosting.co
+*.lyforex.xyz
 *.maerskcom.digital
 *.maerskcorn.digital
 *.magicstellar.org
@@ -680,6 +686,7 @@ russia.usdn.tech
 *.social-truth.co
 *.social-truth.net
 *.soroban.exchange
+*.soroban.forex
 *.soroban.gold
 *.southafrica-assets.digital
 *.southkorea-assets.digital
@@ -798,6 +805,7 @@ stellar.fema.digital
 *.stellarflare.xyz
 *.stellarflies.com
 *.stellar-flow.com
+*.stellar.forex
 *.stellarforex.org
 *.stellar-funds.co
 *.stellarfunds.exchange
@@ -1151,8 +1159,10 @@ trumpcoin.stellarmint.io
 *.vebrfr.digital
 *.vebrfs.digital
 *.veloasset.com
+*.veloassets.digital
 *.veloassets.org
 *.velo.cash
+*.velochain.lumens-projects.com
 *.velochain.net
 *.velochain.network
 *.velo.co.com
@@ -1184,6 +1194,7 @@ trumpcoin.stellarmint.io
 *.velo.lumens-projects.com
 *.velo.lumens-stellar.com
 *.velo.markets
+*.velomint.lumens-projects.com
 *.velonet.tech
 *.velo.network
 *.velonetwork.io
@@ -1206,11 +1217,13 @@ trumpcoin.stellarmint.io
 *.velostellar.co
 *.velo-stellar.com
 *.velostellar.com
+*.velo-stellar.net
 *.velostellar.network
 *.velo-stellarnetwork.com
 *.velo.stellar-network.org
 *.velo-stellar.org
 *.velostellar.org
+*.velostocks.org
 *.velotoken.co
 *.velo-token.com
 *.velotoken.lumens-dex.com
@@ -1303,6 +1316,7 @@ xlmmiota.netlify.app
 *.xmintstellar.com
 *.xmlnt.com
 *.xrapid.io
+*.xrpexchange.netlify.app
 *.xrpflare-network.org
 xrpvault.stellarmint.io
 xrpxau.stellarmint.io
@@ -1320,6 +1334,7 @@ xrpxau.stellarmint.io
 *.yieldaqua.network
 *.yieldripple.com
 *.yieldstronghold.co
+*.yieldvelo.co
 *.yieldvelo.org
 *.yripple.com
 *.ystellar.capital
