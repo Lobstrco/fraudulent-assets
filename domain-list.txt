@@ -62,6 +62,7 @@ atmosphere.stellarmint.io
 *.bitcoinstocks.exchange
 *.bitcoinstocks.foundation
 *.bitcoinstocks.network
+*.bitcoin-stocks.xyz
 *.bitt.network
 *.blackbox.exchange
 *.blackbox-exchange.com
@@ -130,11 +131,13 @@ cicada.xmint.io
 *.claimlumens.org
 *.claimstellar.org
 *.cmacgm.digital
+*.coinbase-assets.com
 *.coinbaseassets.com
 *.coinbox.exchange
 *.coinexchange.onl
 *.coinonstellar.com
 *.colnbase.trade
+*.commodities.financial
 *.commodities.foundation
 *.commodities.investments
 *.continentalpublicbank.com
@@ -213,6 +216,7 @@ elon.stellarforge.co
 *.enaira.usdf.tech
 *.eniz.io
 *.eniz.org
+*.enzorama.net
 *.e-rus.com
 *.e-russ.com
 *.etoro-commodities.com
@@ -277,6 +281,7 @@ fchainx.io
 *.global-lumens.com
 *.globallumens.com
 *.global-lumensnetwork.com
+*.global-reserve.gold
 *.global-stellarnetwork.com
 *.global-stellar.org
 *.go-dls.com
@@ -307,6 +312,7 @@ gold.stellarmint.io
 *.indices365.com
 *.indus.bond
 *.indusbond.com
+*.indusbond.gold
 *.indus.business
 *.indus.claims
 *.indus.consulting
@@ -331,6 +337,7 @@ indusgold.stellarmint.io
 *.induspayment.org
 *.induspayments.capital
 *.induspayments.com
+*.induspayments.org
 *.induss.gold
 *.indus.social
 *.indusstellar.com
@@ -351,6 +358,7 @@ indusgold.stellarmint.io
 *.iso20022assets.com
 *.iso20022assets.org
 *.iso20022.bargains
+*.iso-20022.bond
 *.iso20022.bond
 *.iso20022-coins.com
 *.iso20022coins.org
@@ -415,6 +423,7 @@ italy.stellar-dex.io
 *.lobstr.claims
 *.lobstr.co.com
 *.lobstr.com.co
+*.lobstr.digital
 *.lobstr.exchange
 *.lobstr.forex
 *.lobstrnetwork.com
@@ -453,6 +462,7 @@ luxor.tomlhosting.co
 *.marvel.stellarassets.org
 *.master-node.org
 *.masterstellar.com
+*.mayus.stellargame.space
 *.meme.australian-stellar.digital
 *.meme.quantum-station.exchange
 *.memestellar.com
@@ -582,6 +592,7 @@ preciousxrp.stellarmint.io
 *.qsi.gold
 *.qsistellar.com
 qsi.xmint.io
+*.qthetruth.com
 *.quantinuum-stellar.com
 *.quantnetwork.tech
 *.quantstellar.org
@@ -859,6 +870,7 @@ stellar.fema.digital
 *.stellariran.org
 *.stellarireland.com
 *.stellarium.exchange
+*.stellarix.shop
 *.stellar-japan.digital
 *.stellarkingdom.com
 stellarking.stellarmint.io
@@ -1011,6 +1023,7 @@ stellartron.netlify.app
 *.stellarvelo.co
 *.stellar-velo.com
 *.stellarvelo.com
+*.stellar-velohub.com
 *.stellar-velo.org
 *.stellarvenezuela.com
 *.stellar-whiplash.com
@@ -1101,6 +1114,7 @@ tech.lndus.org
 *.transafrica.vip
 trumpcoin.stellarmint.io
 *.trump.forex
+*.trumpfoundation.xyz
 *.trump.investments
 *.trump-real.estate
 *.trump-realestate.com
@@ -1164,6 +1178,7 @@ trumpcoin.stellarmint.io
 *.uranium.stellar-dex.io
 *.usa-banks.bond
 *.usa-banks.top
+*.usastellar.com
 *.usa.stellar-dex.io
 *.utimatum.network
 *.vanguard.bond
@@ -1221,7 +1236,9 @@ trumpcoin.stellarmint.io
 *.velo.network
 *.velonetwork.io
 *.velo-network.org
+*.velonetwork.org
 *.velonetworks.io
+*.velo.newstellarhq.com
 *.velo.org.so
 *.velopayment.co
 *.velo-payment.com
@@ -1239,6 +1256,7 @@ trumpcoin.stellarmint.io
 *.velostellar.co
 *.velo-stellar.com
 *.velostellar.com
+*.velostellar.io
 *.velo-stellar.net
 *.velostellar.network
 *.velo-stellarnetwork.com
@@ -1265,6 +1283,7 @@ velo.us.org
 *.veloxionlabs.com
 *.veloxion.lumens-projects.com
 *.velox.velo.us.com
+*.veloxwave.com
 *.venezueiastellar.org
 *.venezuelastellar.org
 *.venturecapitals.stellar-dex.io
@@ -1287,6 +1306,7 @@ velo.us.org
 *.whlpiash.technology
 *.wines.stellar-dex.io
 *.world-indus.exchange
+*.world-wide.estate
 *.wrappedlumen.netlify.app
 *.wrapstellar.com
 *.wxlm.shop
@@ -1356,6 +1376,7 @@ xrpxau.stellarmint.io
 *.yieldaqua.network
 *.yield-bitcoin.com
 *.yieldripple.com
+*.yieldstellar.com
 *.yieldstronghold.co
 *.yieldvelo.co
 *.yieldvelo.org
