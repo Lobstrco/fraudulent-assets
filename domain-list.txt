@@ -367,11 +367,13 @@ indusgold.stellarmint.io
 *.iso20022coins.org
 *.iso20022coins.solutions
 *.iso20022crypto.com
+*.iso20022.digital
 *.iso20022.exchange
 *.iso20022.finance
 *.iso20022.financial
 *.iso20022.foundation
 *.iso20022.network
+*.iso20022stellar.com
 *.iso20022stellar.org
 *.iso20022.trade
 *.iso2oo22.org
@@ -1036,6 +1038,7 @@ stellartron.netlify.app
 *.stellarvelo.com
 *.stellar-velohub.com
 *.stellar-velo.org
+*.stellarvelo.tech
 *.stellarvenezuela.com
 *.stellar-whiplash.com
 *.stellarworld.digital
@@ -1191,6 +1194,7 @@ trumpcoin.stellarmint.io
 *.usa-banks.bond
 *.usa-banks.top
 *.usastellar.com
+*.usastellar.com.co
 *.usa.stellar-dex.io
 *.utimatum.network
 *.vanguard.bond
@@ -1211,6 +1215,7 @@ trumpcoin.stellarmint.io
 *.velochain.lumens-projects.com
 *.velochain.net
 *.velochain.network
+*.velochain.tech
 *.velo.co.com
 *.velo.com.de
 *.velo.exchange
@@ -1327,6 +1332,7 @@ velo.us.org
 *.wxlm.shop
 *.wxlm.store
 *.wxt.wlrexapp.com
+*.xaifinity.com
 *.xassets.co
 *.xbox.stellarassets.org
 *.x-crypto.exchange
@@ -1391,6 +1397,7 @@ xrpxau.stellarmint.io
 *.x-token.org
 *.xtokens.co
 *.x-twitter.exchange
+*.xylem.one
 *.yaqua.network
 *.yieldaqua.network
 *.yield-bitcoin.com
