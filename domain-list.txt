@@ -35,6 +35,7 @@
 *.astro-stellar.org
 *.astrostellars.org
 atmosphere.stellarmint.io
+*.atomasset.org
 *.atomtechnology.tech
 *.aud.global
 *.australiamines.digital
@@ -186,6 +187,7 @@ digitalfinance.stellarmint.io
 *.doge-token.com
 *.doge-token.org
 *.dogetokens.stellarmint.io
+*.donaldtrump.bond
 *.donald-trump.foundation
 *.donatelobstr.co
 *.dstoq.app
@@ -340,6 +342,7 @@ indusgold.stellarmint.io
 *.induspayment.org
 *.induspayments.capital
 *.induspayments.com
+*.induspayments.gold
 *.induspayments.org
 *.induss.gold
 *.indus.social
@@ -506,6 +509,7 @@ moneygram.tomlhostlng.co
 *.mxlm.org
 *.mylumen.net
 *.myxlm.org
+*.nasdaq.li
 *.naturalgas.stellar-dex.io
 *.nba.stellarassets.org
 *.nbuz.digital
@@ -595,6 +599,7 @@ preciousxrp.stellarmint.io
 *.qlumen.com
 *.qnet.gold
 *.qripple.finance
+*.qsic.finance
 *.qsi.exchange
 *.qsi.gold
 *.qsistellar.com
@@ -709,6 +714,7 @@ russia.usdn.tech
 *.shanghalcoop.org
 *.shiba-killer.io
 *.shiba-stellar.com
+*.shitcoins.vip
 *.shxglobalpayment.com
 *.sidemen.stellarassets.org
 *.silicon.stellar-commodities.com
@@ -891,6 +897,7 @@ stellarking.stellarmint.io
 *.stellar-kuwait.digital
 *.stellarkyrgyzstan.com
 *.stellar-launchpad.com
+*.stellarlerm.com
 *.stellarliberia.net
 *.stellarliquidity.com
 *.stellar-lite.com
@@ -955,6 +962,7 @@ stellarmarket.stellarmint.io
 *.stellarport.org
 *.stellarpredator.com
 *.stellarprofithub.xmint.io
+*.stellarproject.org
 *.stellarprojectsrussia.com
 *.stellar-projectx.org
 *.stellar.promo
@@ -1059,6 +1067,8 @@ stellartron.netlify.app
 *.stepn.netlify.app
 *.stockassets.exchange
 *.stocksequities.com
+*.stocks.estate
+*.stocks.foundation
 *.stocks-on-stellar.org
 *.stocksripple.com
 *.stocks-stellar.com
@@ -1110,12 +1120,14 @@ tech.lndus.org
 *.teslastellar.com
 *.testlar.com
 *.thecontinuum.ca
+*.thedefiantones.bond
 *.thefarsights.net
 *.thefavens.org
 *.theline-stellar.org
 *.the-line.tech
 *.the-pentagon.us
 *.thesavior.gold
+*.thestellarfarm.com
 *.thetopfunds.org
 *.thewhitehats.org
 *.tiamonds.io
@@ -1137,6 +1149,7 @@ trumpcoin.stellarmint.io
 *.trust-bank.org
 *.trust-coin.net
 *.trustlines.xyz
+*.truthsocial.bond
 *.turbotoken.exchange
 *.turkey-stellar.com
 *.turkeystellar.com
@@ -1258,6 +1271,7 @@ trumpcoin.stellarmint.io
 *.velo-network.org
 *.velonetwork.org
 *.velonetworks.io
+*.velonetwork.tech
 *.velo.newstellarhq.com
 *.velo.org.so
 *.velopayment.co
@@ -1268,6 +1282,7 @@ trumpcoin.stellarmint.io
 *.velopayments.lumens-projects.com
 *.velopayments.org
 *.velopay.org
+*.veloprotocol.digital
 *.veloprotocol.net
 *.veloprotocol.org
 *.veloprotocol.veloassets.org
@@ -1356,6 +1371,7 @@ velo.us.org
 *.xlmbase.net
 *.xlmcoin.xyz
 *.xlm-drop.com
+*.xlm.gold
 xlmhbar.netlify.app
 *.xlminr.com
 *.xlmio.net
@@ -1383,6 +1399,7 @@ xlmmiota.netlify.app
 *.xrapid.io
 *.xrpexchange.netlify.app
 *.xrpflare-network.org
+*.xrp.lol
 xrpvault.stellarmint.io
 xrpxau.stellarmint.io
 *.xstellar.cfd
@@ -1407,6 +1424,7 @@ xrpxau.stellarmint.io
 *.yieldvelo.co
 *.yieldvelo.org
 *.yripple.com
+*.yripple.finance
 *.ystellar.capital
 *.ystellar.co
 *.ystellar.com
