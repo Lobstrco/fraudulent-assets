@@ -141,6 +141,7 @@ cicada.xmint.io
 *.colnbase.trade
 *.commodities.financial
 *.commodities.foundation
+*.commodities.ink
 *.commodities.investments
 *.continentalpublicbank.com
 *.continentalpublicsbank.com
@@ -160,6 +161,7 @@ ctgx.stellarmint.io
 *.cyber-technologies.org
 *.cyber-technology.org
 *.cyber-technoloqy.org
+*.cz-bnb.com
 *.daddycoin.net
 *.dbsbetterworld.io
 *.ddex.capital
@@ -230,6 +232,7 @@ elon.stellarforge.co
 *.etoro.market
 *.etoro-stellar.org
 *.etoro-stocks.com
+*.e-toro.xyz
 *.etxco.co
 *.eurb.digital
 *.exemusexchange.stellarteam.org
@@ -389,6 +392,7 @@ italy.stellar-dex.io
 *.itautilitiess.com
 *.itautilities.stellarmlnt.io
 *.ixinium.co
+*.ixlm.shop
 *.jasperprojecl.digital
 *.jasperproject.digital
 *.jebelalipalm.tech
@@ -448,8 +452,10 @@ loobstrr.netlify.app
 *.luckystellar.com
 *.lumendex.io
 *.lumendex.online
+*.lumen.exchange
 *.lumenexchange.org
 *.lumens-coin.com
+*.lumens-dex.com
 *.lumensdex.com
 *.lumens.exchange
 *.lumensly.com
@@ -583,6 +589,7 @@ preciousxrp.stellarmint.io
 *.project-spia.com
 *.project-stellar.com
 *.project-stellar.org
+*.projectstellar.org
 *.project-ustn.digital
 *.projectxdc.digital
 *.publicstellar.com
@@ -644,6 +651,7 @@ qsi.xmint.io
 *.quantumstellar.tech
 *.quantum-stellar.top
 *.quantum.stellarworld.digital
+*.quantum-stelllar.io
 *.quantum-stocks.com
 *.quantum-system.finance
 *.quantumsystem.finance
@@ -726,6 +734,7 @@ russia.usdn.tech
 *.sneakers.stellarassets.org
 *.social-truth.co
 *.social-truth.net
+*.solanastellar.com
 *.soroban.exchange
 *.soroban.forex
 *.soroban.gold
@@ -747,6 +756,7 @@ russia.usdn.tech
 *.starbridge.pw
 *.starxlm.com
 *.state-reserve.com
+*.state-reserve.xyz
 *.steiiar5x.com
 *.steiiar-au.org
 *.steiiarazerbaijan.com
@@ -1121,6 +1131,7 @@ tech.lndus.org
 *.testlar.com
 *.thecontinuum.ca
 *.thedefiantones.bond
+*.thedefiantones.ink
 *.thefarsights.net
 *.thefavens.org
 *.theline-stellar.org
@@ -1222,6 +1233,7 @@ trumpcoin.stellarmint.io
 *.vebrfr.digital
 *.vebrfs.digital
 *.veloasset.com
+*.veloassets.com
 *.veloassets.digital
 *.veloassets.org
 *.velo.cash
@@ -1236,7 +1248,9 @@ trumpcoin.stellarmint.io
 *.velofinance.net
 *.velofinance.tech
 *.velo.financial
+*.velofinancial.org
 *.velo.fund
+*.velohub.lumens-dex.com
 *.velohub.lumens-projects.com
 *.velohub.newstellarhq.com
 *.velohub-stellar.com
@@ -1282,6 +1296,7 @@ trumpcoin.stellarmint.io
 *.velopayments.lumens-projects.com
 *.velopayments.org
 *.velopay.org
+*.veloprotocol.co
 *.veloprotocol.digital
 *.veloprotocol.net
 *.veloprotocol.org
@@ -1326,6 +1341,7 @@ velo.us.org
 *.verbfdigital.co
 *.verified-assets.com
 *.vestinwolf.in
+*.vestinwolf.org
 *.vietnam-assets.digital
 *.vitol.digital
 *.vitol.exchange
@@ -1337,6 +1353,7 @@ velo.us.org
 *.whiplash.community
 *.whiplash.digital
 *.whiplash.exchange
+*.whiplash.finance
 *.whiplash.technology
 *.whlpiash.technology
 *.wines.stellar-dex.io
