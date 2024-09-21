@@ -143,6 +143,7 @@ cicada.xmint.io
 *.commodities.foundation
 *.commodities.ink
 *.commodities.investments
+*.commodities.top
 *.continentalpublicbank.com
 *.continentalpublicsbank.com
 *.corporate.stellarbonds.exchange
@@ -162,6 +163,7 @@ ctgx.stellarmint.io
 *.cyber-technology.org
 *.cyber-technoloqy.org
 *.cz-bnb.com
+*.cz-bnb.org
 *.daddycoin.net
 *.dbsbetterworld.io
 *.ddex.capital
@@ -172,6 +174,7 @@ ctgx.stellarmint.io
 *.deluxe-indus.exchange
 *.devland.network
 *.dexgate.co
+*.dex.intrestellar.exchange
 *.dex.stellarfusion.org
 digitalfinance.stellarmint.io
 *.digital-indus.exchange
@@ -289,6 +292,7 @@ fchainx.io
 *.globallumens.com
 *.global-lumensnetwork.com
 *.global-reserve.gold
+*.global-stellar.com
 *.global-stellarnetwork.com
 *.global-stellar.org
 *.go-dls.com
@@ -688,12 +692,14 @@ qsi.xmint.io
 *.ripplechina.org
 *.ripplefox.org
 *.ripplenet.ai
+*.ripplenet.org
 *.ripplestocks.com
 *.rippleteam.org
 *.ripple.uk.com
 *.rippleusd.org
 *.ripple.us.org
 *.rivalcoins.io
+*.rlpple.org
 *.ro-stellar.co
 *.rubber.stellar-commodities.com
 *.rusian-assets.digital
@@ -716,6 +722,7 @@ russia.usdn.tech
 *.saudi-stellar.digital
 *.sber.global
 *.sbistellar.com
+*.servenow.lol
 *.sgpmx.fund
 *.sgxpm.fund
 *.shanghaicoop.org
@@ -1055,6 +1062,7 @@ stellartron.netlify.app
 *.stellar-velo.com
 *.stellarvelo.com
 *.stellar-velohub.com
+*.stellarvelo.net
 *.stellar-velo.org
 *.stellarvelo.tech
 *.stellarvenezuela.com
@@ -1101,8 +1109,10 @@ stellartron.netlify.app
 *.stronghold.qlumen.co
 *.strongholdtesla.org
 *.strongholdx.co
+*.strongholdz.co
 *.strongpaystellar.com
 *.sungold.gold
+*.swap-cz.com
 *.swissbanks.claims
 *.swisscustody.claims
 *.swiss-custody.com
@@ -1208,6 +1218,7 @@ trumpcoin.stellarmint.io
 *.ultrastellar-quantum.org
 *.ultrastellar.shop
 *.ultrastellar.trade
+*.ultrastronghold.com
 *.uninnovations.org
 *.uniquestellar.com
 *.uniquestellar.org
@@ -1259,6 +1270,7 @@ trumpcoin.stellarmint.io
 *.velolab.lumens-projects.com
 *.velolab.lumens-stellar.com
 *.velolab.network
+*.velolab.newstellarhq.com
 *.velolabs.co
 *.velolabs.digital
 *.velolabs.io
@@ -1294,11 +1306,13 @@ trumpcoin.stellarmint.io
 *.velopayment.org
 *.velopayments.io
 *.velopayments.lumens-projects.com
+*.velopayments.net
 *.velopayments.org
 *.velopay.org
 *.veloprotocol.co
 *.veloprotocol.digital
 *.veloprotocol.net
+*.veloprotocol.newstellarhq.com
 *.veloprotocol.org
 *.veloprotocol.veloassets.org
 *.veloprotocol.velo.us.com
