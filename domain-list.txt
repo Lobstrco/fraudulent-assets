@@ -470,6 +470,7 @@ loobstrr.netlify.app
 *.lumensstore.com
 *.lumensswap.com
 *.lumensworld.com
+*.lumwave.io
 *.luxbank.co
 luxor.tomlhosting.co
 *.lyforex.xyz
@@ -727,6 +728,7 @@ russia.usdn.tech
 *.sgxpm.fund
 *.shanghaicoop.org
 *.shanghalcoop.org
+*.shiba-ai.org
 *.shiba-killer.io
 *.shiba-stellar.com
 *.shitcoins.vip
@@ -1231,6 +1233,7 @@ trumpcoin.stellarmint.io
 *.usastellar.com
 *.usastellar.com.co
 *.usa.stellar-dex.io
+*.usbonds.us
 *.utimatum.network
 *.vanguard.bond
 *.vanguard-etfs.org
@@ -1244,10 +1247,12 @@ trumpcoin.stellarmint.io
 *.vebrfr.digital
 *.vebrfs.digital
 *.veloasset.com
+*.veloasset.digital
 *.veloassets.com
 *.veloassets.digital
 *.veloassets.org
 *.velo.cash
+*.velochain.digital
 *.velochain.lumens-projects.com
 *.velochain.net
 *.velochain.network
