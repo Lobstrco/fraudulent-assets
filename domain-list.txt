@@ -456,8 +456,10 @@ loobstrr.netlify.app
 *.luckystellar.com
 *.lumendex.io
 *.lumendex.online
+*.lumendex.top
 *.lumen.exchange
 *.lumenexchange.org
+*.lumen.lol
 *.lumens-coin.com
 *.lumens-dex.com
 *.lumensdex.com
@@ -670,6 +672,7 @@ qsi.xmint.io
 *.quantum-tokens.org
 *.quanturn-system.finance
 *.quatumstellar.ai
+*.qxrp.org
 *.qya.finance
 *.r3network.org
 *.rabo.earth
@@ -1309,6 +1312,7 @@ trumpcoin.stellarmint.io
 *.velo-payment.com
 *.velo-payment.org
 *.velopayment.org
+*.velopayments.digital
 *.velopayments.io
 *.velopayments.lumens-projects.com
 *.velopayments.net
