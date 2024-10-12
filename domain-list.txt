@@ -180,6 +180,7 @@ digitalfinance.stellarmint.io
 *.digital-indus.exchange
 *.digital.lndus.exchange
 *.digitstellar.com
+*.djtstellar.com
 *.dlx.stellarteam.org
 *.doa-digital-on-asset.com
 *.doge-ai.claims
@@ -611,6 +612,7 @@ preciousxrp.stellarmint.io
 *.qfs-tokens.org
 *.qlm.finance
 *.qlumen.com
+*.qlumen.finance
 *.qnet.gold
 *.qripple.finance
 *.qsic.finance
@@ -847,6 +849,7 @@ russia.usdn.tech
 *.stellarcolumbia.com
 *.stéllar.com
 *.stellar-commodities.com
+*.stellarcommodities.xyz
 *.stellarcongo.com
 *.stellarcotedlvoire.com
 *.stellarcrypto.org
@@ -865,6 +868,7 @@ russia.usdn.tech
 *.stellareba.com
 *.stellarecuador.org
 *.stellarenigio.com
+*.stellar-estate.world
 *.stellaretfs.com
 *.stellar-etfs.org
 stellar.fema.digital
@@ -1223,6 +1227,7 @@ trumpcoin.stellarmint.io
 *.ultrastellar-quantum.org
 *.ultrastellar.shop
 *.ultrastellar.trade
+*.ultrastronghold.co
 *.ultrastronghold.com
 *.uninnovations.org
 *.uniquestellar.com
@@ -1251,6 +1256,7 @@ trumpcoin.stellarmint.io
 *.vebrfs.digital
 *.veloasset.com
 *.veloasset.digital
+*.veloasset.net
 *.veloassets.com
 *.veloassets.digital
 *.veloassets.org
@@ -1305,6 +1311,7 @@ trumpcoin.stellarmint.io
 *.velo-network.org
 *.velonetwork.org
 *.velonetworks.io
+*.velonetworks.org
 *.velonetwork.tech
 *.velo.newstellarhq.com
 *.velo.org.so
@@ -1323,6 +1330,7 @@ trumpcoin.stellarmint.io
 *.veloprotocol.net
 *.veloprotocol.newstellarhq.com
 *.veloprotocol.org
+*.veloprotocol.tech
 *.veloprotocol.veloassets.org
 *.veloprotocol.velo.us.com
 *.velo-stellar.co
