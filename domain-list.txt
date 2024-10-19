@@ -91,13 +91,19 @@ atmosphere.stellarmint.io
 *.brazili-assets.com
 *.brazll-assets.com
 *.brics-assets.com
+*.bricsassets.exchange
+*.brics-eye.com
 *.brics-network.org
+*.bricsqn-stellar.com
 *.bricsreserve.xmint.io
+*.brics-stellar.com
 *.bricsstellar.com
+*.brics.stellarhorizon.org
 *.brics-stellar.org
 *.bricsstellar.org
 *.brics.stellarprojects.org
 *.brics.stellarworld.digital
+*.bricstellar.org
 *.bricst.io
 *.bricst-stellar.com
 *.brics.xmint.io
@@ -292,9 +298,11 @@ fchainx.io
 *.global-lumens.com
 *.globallumens.com
 *.global-lumensnetwork.com
+*.globallumens-network.com
 *.global-reserve.gold
 *.global-stellar.com
 *.global-stellarnetwork.com
+*.globalstellar-network.com
 *.global-stellar.org
 *.go-dls.com
 *.gold-indus.bond
@@ -304,6 +312,7 @@ fchainx.io
 gold.stellarmint.io
 *.gov.stellarbonds.exchange
 *.grayscale.co.com
+*.gulfstreamstellar.org
 *.gwallet.tech
 *.helium.tech
 *.hiddenstellar.com
@@ -465,6 +474,8 @@ loobstrr.netlify.app
 *.lumens-dex.com
 *.lumensdex.com
 *.lumens.exchange
+*.lumenshq.com
+*.lumenshub.com
 *.lumensly.com
 *.lumens-network.com
 *.lumens-projects.com
@@ -533,6 +544,7 @@ moneygram.tomlhostlng.co
 *.nevadamining.gold
 *.newdawn.gold
 *.newstellar.io
+*.newstellartokens.com
 *.nfl.stellarassets.org
 *.nft-indus.exchange
 *.nft.indus.exchange
@@ -830,8 +842,11 @@ russia.usdn.tech
 *.stellarblog.org
 *.stellarbolivia.com
 *.stellarbonds.exchange
+*.stellar-bricsb.org
 *.stellarbrics.com
 *.stellarbrics.org
+*.stellar-bricsp.org
+*.stellarbricst.com
 *.stellar-bricst.io
 *.stellarbridge.org
 *.stellarbritain.digital
@@ -901,6 +916,7 @@ stellar.fema.digital
 *.stellarheroes.com
 *.stellarhome.org
 *.stellar-hongkong.digital
+*.stellarhorizon.org
 *.stellarhqdex.com
 *.stellarhq.io
 *.stellarhq.org
@@ -915,6 +931,7 @@ stellar.fema.digital
 *.stellariran.org
 *.stellarireland.com
 *.stellarium.exchange
+*.stellarium.top
 *.stellarix.shop
 *.stellar-japan.digital
 *.stellarkingdom.com
@@ -949,6 +966,7 @@ stellarmarket.stellarmint.io
 *.stellar-metaverse.com
 *.stellarmexico.com
 *.stellarmintnetwork.com
+*.stellarmints.com
 *.stellarmojaloop.com
 *.stellarmoldova.org
 *.stellar-moneygram.com
@@ -1067,12 +1085,14 @@ stellartron.netlify.app
 *.stellaruzbekistan.org
 *.stellarvault.co
 *.stellarvault.io
+*.stellarvaults.com
 *.stellarvelo.co
 *.stellar-velo.com
 *.stellarvelo.com
 *.stellar-velohub.com
 *.stellarvelo.net
 *.stellar-velo.org
+*.stellarvelo.org
 *.stellarvelo.tech
 *.stellarvenezuela.com
 *.stellar-whiplash.com
@@ -1130,6 +1150,7 @@ stellartron.netlify.app
 *.swisscustody.gold
 *.swisscustody-gold.com
 *.swisscustody.induspayment.com
+*.swisscustody.io
 *.swiss-custody.org
 *.swisscustody.org
 *.swisscustodys.org
@@ -1210,6 +1231,7 @@ trumpcoin.stellarmint.io
 *.ultlmatum.network
 *.ultracapital.cfd
 *.ultracapital.io
+*.ultracapital.site
 *.ultracapitals.xyz
 *.ultra-doge.com
 *.ultrastelar.com
@@ -1219,6 +1241,7 @@ trumpcoin.stellarmint.io
 *.ultra-stellar.com
 *.ultrastellar.com.ai
 *.ultrastellar.com.co
+*.ultrastellar.digital
 *.ultrastellar.fun
 *.ultrastellar.llc
 *.ultrastellar.ml
@@ -1268,6 +1291,7 @@ trumpcoin.stellarmint.io
 *.velochain.tech
 *.velo.co.com
 *.velo.com.de
+*.velo.eu.com
 *.velo.exchange
 *.velofinance.co
 *.velofinance.net
@@ -1386,6 +1410,7 @@ velo.us.org
 *.whiplash.exchange
 *.whiplash.finance
 *.whiplash.technology
+*.whipyachts.org
 *.whlpiash.technology
 *.wines.stellar-dex.io
 *.world-indus.exchange
@@ -1470,6 +1495,7 @@ xrpxau.stellarmint.io
 *.yieldstellar.com
 *.yieldstronghold.co
 *.yieldvelo.co
+*.yieldvelo.com
 *.yieldvelo.org
 *.yripple.com
 *.yripple.finance
