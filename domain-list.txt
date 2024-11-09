@@ -96,6 +96,7 @@ atmosphere.stellarmint.io
 *.brazll-assets.com
 *.brics-assets.com
 *.bricsassets.exchange
+*.bricsbonds.org
 *.brics-eye.com
 *.bricseye.com
 *.bricsgov.com
@@ -120,6 +121,7 @@ atmosphere.stellarmint.io
 *.brics.xmint.io
 *.brics.xmintstellar.org
 *.btcstocks.org
+*.btcstocks.store
 *.bugattistellar.org
 *.bulgaria-minerals.digital
 *.bulletproof-trump.org
@@ -1400,6 +1402,7 @@ trumpcoin.stellarmint.io
 *.velostellar.com
 *.velostellar.digital
 *.velostellar.io
+*.velo.stellar-mint.org
 *.velo-stellar.net
 *.velostellar.network
 *.velo-stellarnetwork.com
@@ -1425,6 +1428,7 @@ velo.us.org
 *.velo.velo.us.com
 *.veloxionlab.com
 *.veloxionlabs.com
+*.veloxionlabs.org
 *.veloxion.lumens-projects.com
 *.veloxion.xmintlumens.com
 *.velox.velo.us.com
