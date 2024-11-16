@@ -100,9 +100,11 @@ atmosphere.stellarmint.io
 *.brics-eye.com
 *.bricseye.com
 *.bricsgov.com
+*.bricshealth.live
 *.bricsmetals.live
 *.brics-network.org
 *.bricspay.live
+*.bricspay-live.com
 *.bricspay.lol
 *.bricspay-stellar.com
 *.bricsqn-stellar.com
@@ -118,8 +120,10 @@ atmosphere.stellarmint.io
 *.bricstellar.org
 *.bricst.io
 *.bricst-stellar.com
+*.brics-unitycoin.com
 *.brics.xmint.io
 *.brics.xmintstellar.org
+*.btcstocks.network
 *.btcstocks.org
 *.btcstocks.store
 *.bugattistellar.org
@@ -164,6 +168,7 @@ cicada.xmint.io
 *.commodities.foundation
 *.commodities.ink
 *.commodities.investments
+*.commodities-stellar.xyz
 *.commodities.top
 *.commodities.yachts
 *.continentalpublicbank.com
@@ -218,6 +223,7 @@ digitalfinance.stellarmint.io
 *.doge-token.org
 *.dogetokens.stellarmint.io
 *.donaldtrump.bond
+*.donaldtrump.cfd
 *.donald-trump.foundation
 *.donatelobstr.co
 *.dstoq.app
@@ -243,6 +249,7 @@ dstoq.tech
 *.elonstellar.com
 elon.stellarforge.co
 *.elonstellar.net
+*.elonx.bond
 *.emaarkhalifa.netlify.app
 *.emergency-tokens.stellarteam.org
 *.emily.exchange
@@ -253,6 +260,7 @@ elon.stellarforge.co
 *.enzorama.net
 *.e-rus.com
 *.e-russ.com
+*.etoro.cfd
 *.etoro-commodities.com
 *.etoro-crypto.com
 *.etoro.financial
@@ -520,6 +528,7 @@ luxor.tomlhosting.co
 *.masterstellar.com
 *.mayus.stellargame.space
 *.meme.australian-stellar.digital
+*.memecoins.cfd
 *.meme.quantum-station.exchange
 *.memestellar.com
 *.memetokens.store
@@ -557,6 +566,7 @@ moneygram.tomlhostlng.co
 *.mylumen.net
 *.myxlm.org
 *.nasdaq.li
+*.nations-gold.bond
 *.naturalgas.stellar-dex.io
 *.nba.stellarassets.org
 *.nbuz.digital
@@ -1176,6 +1186,7 @@ stellartron.netlify.app
 *.strongpaystellar.com
 *.sungold.gold
 *.swap-cz.com
+*.swaplumen.com
 *.swissbanks.claims
 *.swisscustody.claims
 *.swiss-custody.com
@@ -1225,6 +1236,7 @@ tech.lndus.org
 *.to-stellar.org
 *.tradelens.io
 *.transafrica.vip
+*.trump347.com
 trumpcoin.stellarmint.io
 *.trump.forex
 *.trumpfoundation.xyz
@@ -1322,6 +1334,7 @@ trumpcoin.stellarmint.io
 *.veloassets.digital
 *.veloassets.org
 *.velo.cash
+*.velo-chain.com
 *.velochain.digital
 *.velochain.lumens-projects.com
 *.velochain.net
@@ -1360,6 +1373,7 @@ trumpcoin.stellarmint.io
 *.velolabs.velo.us.com
 *.velolab.tech
 *.velolab.velo.us.com
+*.velo.lobstr.pro
 *.velo.lumens-dex.com
 *.velo.lumens-projects.com
 *.velo.lumens-stellar.com
@@ -1447,6 +1461,7 @@ velo.us.org
 *.watches.indus.exchange
 *.wealthfunds.stellar-dex.io
 *.web.crypto-lumens.digital
+*.wgold.lobstr.pro
 *.whipash.technology
 *.whiphelis.org
 *.whipiash.community
@@ -1494,6 +1509,7 @@ velo.us.org
 *.xinfinasset.com
 *.xinfin.claims
 *.xinfinxrp.com
+*.xlm250.com​
 *.xlm5.live
 *.xlmbase.net
 *.xlmcoin.xyz
