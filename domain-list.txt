@@ -160,6 +160,7 @@ cicada.xmint.io
 *.cmacgm.digital
 *.coinbase-assets.com
 *.coinbaseassets.com
+*.coinbasestellar.com
 *.coinbox.exchange
 *.coinexchange.onl
 *.coinonstellar.com
@@ -343,6 +344,7 @@ gold.stellarmint.io
 *.grayscale.co.com
 *.gulfstreamstellar.org
 *.gwallet.tech
+*.hederastellar.com
 *.helium.tech
 *.hiddenstellar.com
 *.hiddenstellar.org
@@ -477,6 +479,7 @@ italy.stellar-dex.io
 *.lobstrasset.com
 *.lobstr.claims
 *.lobstr.co.com
+*.lobstrcoins.com
 *.lobstr.com.co
 *.lobstr.digital
 *.lobstr.exchange
@@ -500,6 +503,7 @@ loobstrr.netlify.app
 *.lumen.exchange
 *.lumenexchange.org
 *.lumen.lol
+*.lumensbase.com
 *.lumens-coin.com
 *.lumens-dex.com
 *.lumensdex.com
@@ -1427,6 +1431,7 @@ trumpcoin.stellarmint.io
 *.velo.technology
 *.velotoken.co
 *.velo-token.com
+*.velotoken.digital
 *.velotoken.lumens-dex.com
 *.velotoken.lumens-projects.com
 *.velotoken.lumens-stellar.com
