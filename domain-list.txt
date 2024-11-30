@@ -616,6 +616,7 @@ moneygram.tomlhostlng.co
 *.pharma.indus.exchange
 *.phub.stellarmint.io
 *.pi-network.io
+*.pi-networkstellar.com
 *.platinum.stellar-commodities.com
 *.poland-minerals.digital
 *.powerstellar.com
@@ -638,6 +639,7 @@ preciousxrp.stellarmint.io
 *.projectguardian.claims
 *.project-guardian.com
 *.projectguardian.digital
+*.project-guardian.financial
 *.project-jura.com
 *.projectjura.digital
 *.project-jura.org
@@ -753,6 +755,7 @@ qsi.xmint.io
 *.ripplenet.ai
 *.ripplenet.org
 *.ripplestellar.com
+*.ripplestellar.org
 *.ripplestocks.com
 *.rippleteam.org
 *.ripple.uk.com
@@ -1314,10 +1317,12 @@ trumpcoin.stellarmint.io
 *.uranium.stellar-dex.io
 *.usa-banks.bond
 *.usa-banks.top
+*.usareserves.org
 *.usastellar.com
 *.usastellar.com.co
 *.usa.stellar-dex.io
 *.usbonds.us
+*.usdstellar.com
 *.usmbonds.com
 *.utimatum.network
 *.vanguard.bond
@@ -1373,6 +1378,7 @@ trumpcoin.stellarmint.io
 *.velolabs.org
 *.velolabs.stellar-network.org
 *.velolabs.tech
+*.velolab.stellar-mint.org
 *.velolab.stellar-network.org
 *.velolabs.velo.us.com
 *.velolab.tech
@@ -1384,6 +1390,7 @@ trumpcoin.stellarmint.io
 *.velo.markets
 *.velometals.com
 *.velomint.lumens-projects.com
+*.velonet.digital
 *.velonet.tech
 *.velo.network
 *.velonetwork.digital
