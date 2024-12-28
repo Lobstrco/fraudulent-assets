@@ -256,6 +256,7 @@ dstoq.tech
 *.elonstellar.com
 elon.stellarforge.co
 *.elonstellar.net
+*.elonwhip.org
 *.elonx.bond
 *.emaarkhalifa.netlify.app
 *.emergency-tokens.stellarteam.org
@@ -358,6 +359,7 @@ gold.stellarmint.io
 *.hi-technetwork.org
 *.hk.indus.exchange
 *.hl-technetwork.com
+*.hqlumens.com
 *.https://ubsinnovations.capital/
 *.hyper-ledger.org
 *.hyperledger.pro
@@ -1398,6 +1400,7 @@ trumpcoin.stellarmint.io
 *.velolab.network
 *.velolab.newstellarhq.com
 *.velolaboratory.com
+*.velolaboratory.net
 *.velolaboratory.org
 *.velo-lab.org
 *.velo-labs.co
@@ -1416,6 +1419,8 @@ trumpcoin.stellarmint.io
 *.velolabs.velo.us.com
 *.velolab.tech
 *.velolab.velo.us.com
+*.velo-lobstr.co
+*.velolobstr.co
 *.velolobstr.com
 *.velolobstr.net
 *.velolobstr.org
@@ -1430,6 +1435,7 @@ trumpcoin.stellarmint.io
 *.velonet.stellar-mint.org
 *.velonet.tech
 *.velo.network
+*.velo-network.com
 *.velonetwork.digital
 *.velonetwork.io
 *.velo-network.org
@@ -1437,6 +1443,7 @@ trumpcoin.stellarmint.io
 *.velonetworks.co
 *.velonetworks.io
 *.velonetworks.org
+*.velonetworks.tech
 *.velonetwork.tech
 *.velo.newstellarhq.com
 *.velo.org.so
@@ -1456,6 +1463,7 @@ trumpcoin.stellarmint.io
 *.veloprotocol.net
 *.veloprotocol.newstellarhq.com
 *.veloprotocol.org
+*.velo-protocol.tech
 *.veloprotocol.tech
 *.veloprotocol.veloassets.org
 *.veloprotocol.velo.us.com
@@ -1493,6 +1501,7 @@ velo.us.org
 *.velo.velopayments.io
 *.velo.velotoken.co
 *.velo.velo.us.com
+*.veloworld.stellar-mint.org
 *.veloxionlab.com
 *.veloxionlabs.com
 *.veloxionlabs.org
