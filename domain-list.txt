@@ -163,6 +163,7 @@ cicada.xmint.io
 *.cmacgm.digital
 *.coinbase-assets.com
 *.coinbaseassets.com
+*.coinbase.com.co
 *.coinbasestellar.com
 *.coinbox.exchange
 *.coinexchange.onl
@@ -506,6 +507,7 @@ loobstrr.netlify.app
 *.lucky-stellar.com
 *.luckystellar.com
 *.lumenassets.com
+*.lumencapital.org
 *.lumendex.io
 *.lumendex.online
 *.lumendex.top
@@ -538,6 +540,7 @@ luxor.tomlhosting.co
 *.mallstellar.com
 *.mancityfan.us
 *.marvel.stellarassets.org
+*.mastercard.co.com
 *.master-node.org
 *.masterstellar.com
 *.mayus.stellargame.space
@@ -576,6 +579,7 @@ moneygram.tomlhostlng.co
 *.monopolies.indus.exchange
 *.monopolies.stellar-dex.io
 *.motorrad.stellarassets.org
+*.musk.cfd
 *.mutualfunds.stellar-dex.io
 *.mxlm.org
 *.mylumen.net
@@ -659,6 +663,7 @@ preciousxrp.stellarmint.io
 *.project-jura.org
 *.project-lgold.digital
 *.project-morpheus.org
+*.projectpump.fun
 *.projectsmartcrowd.com
 *.project-spia.com
 *.project-stellar.com
@@ -847,6 +852,7 @@ russia.usdn.tech
 *.starlingstellar.com
 *.starxlm.com
 *.state-reserve.com
+*.statereserves.com
 *.state-reserve.xyz
 *.steiiar5x.com
 *.steiiar-au.org
@@ -1372,6 +1378,8 @@ trumpcoin.stellarmint.io
 *.veloassets.digital
 *.veloassets.net
 *.veloassets.org
+*.velobridge.net
+*.velobridge.org
 *.velo.cash
 *.velo-chain.com
 *.velochain.digital
@@ -1493,10 +1501,13 @@ trumpcoin.stellarmint.io
 *.velotoken.net
 *.velo-token.org
 *.velotoken.org
+*.velotokens.com
+*.velotokens.org
 *.velotoken.stellar-mint.org
 *.velotoken.velo.co.com
 *.velotoken.velo.us.com
 *.velo.trading
+*.velo.uk.net
 velo.us.org
 *.velo.velopayments.io
 *.velo.velotoken.co
