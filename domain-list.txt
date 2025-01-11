@@ -102,6 +102,7 @@ atmosphere.stellarmint.io
 *.bricsgov.com
 *.bricshealth.live
 *.bricsinvest.co
+*.brics-live.com
 *.brics-live.org
 *.bricsmetals.live
 *.brics-network.org
@@ -211,6 +212,7 @@ ctgx.stellarmint.io
 *.dexgate.co
 *.dex.intrestellar.exchange
 *.dex.stellarfusion.org
+*.diamondhands.fund
 digitalfinance.stellarmint.io
 *.digital-indus.exchange
 *.digital.lndus.exchange
@@ -705,6 +707,7 @@ qsi.xmint.io
 *.quantum-financial.network
 *.quantum-financial-system.io
 *.quantum-financial-system.org
+*.quantumfinancial.tech
 *.quantum-future.co
 *.quantum-gesara.org
 *.quantum.indus.exchange
@@ -1223,6 +1226,7 @@ stellartron.netlify.app
 *.strongholdx.co
 *.strongholdz.co
 *.strongpaystellar.com
+*.suistellar.com
 *.sungold.gold
 *.swap-cz.com
 *.swaplumen.com
@@ -1436,6 +1440,7 @@ trumpcoin.stellarmint.io
 *.velo.lumens-dex.com
 *.velo.lumens-projects.com
 *.velo.lumens-stellar.com
+*.velo.lumensworld.org
 *.velo.markets
 *.velometals.com
 *.velomint.lumens-projects.com
@@ -1466,6 +1471,8 @@ trumpcoin.stellarmint.io
 *.velopayments.net
 *.velopayments.org
 *.velopay.org
+*.velopool.com
+*.velopool.org
 *.veloprotocol.co
 *.veloprotocol.digital
 *.veloprotocol.net
