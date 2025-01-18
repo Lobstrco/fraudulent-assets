@@ -133,6 +133,7 @@ atmosphere.stellarmint.io
 *.bugattistellar.org
 *.bulgaria-minerals.digital
 *.bulletproof-trump.org
+*.byte.xlmplay.top
 *.casper.gold
 *.cb-bitnickel.co
 *.cb-bitnlckel.co
@@ -235,6 +236,7 @@ digitalfinance.stellarmint.io
 *.donaldtrump.cfd
 *.donald-trump.foundation
 *.donatelobstr.co
+*.drtoken.stellarmem.org
 *.dstoq.app
 dstoq.tech
 *.dzbank.capital
@@ -313,6 +315,7 @@ fchainx.io
 *.flares.network
 *.flarestellar.com
 *.flarestellar.xyz
+*.flowerlife.xmint.io
 *.france-assets.com
 *.franklintempleton.com.co
 *.g7digital.pw
@@ -331,6 +334,7 @@ fchainx.io
 *.getxlm.net
 *.getxlm.org
 *.giantstellar.com
+*.gift.xmint.io
 *.giga-doge.com
 *.global-assets.digital
 *.global-estate.co
@@ -525,6 +529,7 @@ loobstrr.netlify.app
 *.lumenshub.com
 *.lumensly.com
 *.lumens-network.com
+*.lumensnetwork.com
 *.lumens-projects.com
 *.lumens-stellar.com
 *.lumens-stellarnetwork.com
@@ -753,6 +758,7 @@ qsi.xmint.io
 *.qxrp.org
 *.qya.finance
 *.r3network.org
+*.r3stellar.com
 *.rabo.earth
 *.rabostellar.com
 *.rare-tokens.org
@@ -786,6 +792,7 @@ qsi.xmint.io
 *.ripple.us.org
 *.rivalcoins.io
 *.rlpple.org
+*.rlusd.capital
 *.ro-stellar.co
 *.rubber.stellar-commodities.com
 *.rusian-assets.digital
@@ -817,6 +824,7 @@ russia.usdn.tech
 *.shibainu-farming.com
 *.shiba-killer.io
 *.shiba-stellar.com
+*.shibstellar.com
 *.shitcoins.vip
 *.shxglobalpayment.com
 *.sidemen.stellarassets.org
@@ -1090,6 +1098,7 @@ stellarmarket.stellarmint.io
 *.stellar-projectx.org
 *.stellar.promo
 *.stellarqfi.org
+*.stellarqfs.com
 *.stellar-quantum.com
 *.stellar-quantum.org
 *.stellarquarry.com
@@ -1231,6 +1240,7 @@ stellartron.netlify.app
 *.swap-cz.com
 *.swaplumen.com
 *.swaplumens.com
+*.swapsstellar.com
 *.swissbanks.claims
 *.swisscustody.claims
 *.swiss-custody.com
@@ -1287,6 +1297,7 @@ trumpcoin.stellarmint.io
 *.trump.investments
 *.trump-real.estate
 *.trump-realestate.com
+*.trumpstellar.org
 *.trumptokens.org
 *.trust-bank.org
 *.trust-coin.net
@@ -1328,6 +1339,7 @@ trumpcoin.stellarmint.io
 *.ultra-doge.com
 *.ultrastelar.com
 *.ultrastellar.ai
+*.ultrastellar.capital
 *.ultrastellar.claims
 *.ultrastellar.co
 *.ultra-stellar.com
@@ -1409,10 +1421,13 @@ trumpcoin.stellarmint.io
 *.velolab.digital
 *.velolab.lumens-projects.com
 *.velolab.lumens-stellar.com
+*.velolab.lumensworld.org
 *.velolab.network
 *.velolab.newstellarhq.com
+*.velo-laboratory.com
 *.velolaboratory.com
 *.velolaboratory.net
+*.velo-laboratory.org
 *.velolaboratory.org
 *.velo-lab.org
 *.velo-labs.co
@@ -1599,6 +1614,7 @@ velo.us.org
 *.xlm.gold
 xlmhbar.netlify.app
 *.xlminr.com
+*.xlmints.com
 *.xlmio.net
 *.xlmjackpot.online
 *.xlmlab.com
@@ -1613,6 +1629,7 @@ xlmmiota.netlify.app
 *.xlm.stellar-assets.org
 *.xlm.stellar-techpoint.exchange
 *.xlmstocks.com
+*.xlmswap.com
 *.xlm.ultrastellar-quantum.org
 *.xlmvault.org
 *.xlmvelo.netlify.app
