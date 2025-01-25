@@ -1,9 +1,11 @@
 *.10crypto.top
 *.1754.digital
 *.1933gaudens.stellarmint.io
+*.56d7pc.litemint.store
 *.aber.fund
 *.action-patriots.com
 *.adx-stellar.com
+*.afreum.net
 *.africa-mr.com
 *.agriogenesis.in
 *.agrogenesis.bond
@@ -14,6 +16,7 @@
 *.akash-network
 *.algo-dex.org
 *.algodex.trade
+*.alphabetstellar.org
 *.alrajhistellar.com
 *.anchored-tokens.org
 *.anclap.io
@@ -234,6 +237,7 @@ digitalfinance.stellarmint.io
 *.donaldjtrump.exchange
 *.donaldtrump.bond
 *.donaldtrump.cfd
+*.donaldtrump.estate
 *.donald-trump.foundation
 *.donatelobstr.co
 *.drtoken.stellarmem.org
@@ -330,6 +334,7 @@ fchainx.io
 *.gesara.solutions
 *.gesarateam.com
 *.getmetacoin.org
+*.gettrumps.meme
 *.getxlm.fun
 *.getxlm.net
 *.getxlm.org
@@ -508,6 +513,7 @@ italy.stellar-dex.io
 *.lobstrvault.com
 *.lobstrvault.org
 *.lohstr.co
+*.londonstockexchange.co.com
 loobstrr.netlify.app
 *.lso20022coins.com
 *.lucky-stellar.com
@@ -806,6 +812,7 @@ russia.usdn.tech
 *.ruszoloto.gold
 *.s7space-stellar.org
 *.safependulum.org
+*.sall.lobstr.pro
 *.salt.stellar-commodities.com
 *.sama-stellar.digital
 *.sap.cash
@@ -838,7 +845,10 @@ russia.usdn.tech
 *.sneakers.stellarassets.org
 *.social-truth.co
 *.social-truth.net
+*.solana.bestswap.live
+*.solanachain.netlify.app
 *.solanastellar.com
+*.solan.netlify.app
 *.soroban.exchange
 *.soroban.forex
 *.soroban.gold
@@ -1069,6 +1079,7 @@ stellarmarket.stellarmint.io
 *.stellar.org.am
 *.stellar.org.gl
 *.stellar.org.il
+*.stellar.org.im
 *.stellar.org.lc
 *.stellar-org-lumens.ifc1.ir
 *.stellar.org.ly
@@ -1103,6 +1114,7 @@ stellarmarket.stellarmint.io
 *.stellar-quantum.org
 *.stellarquarry.com
 *.stellarrealestate.org
+*.stellar-reserve.com
 *.stellar-ril.digital
 *.stellar-roweprice.com
 *.stellar-russia.digital
@@ -1206,6 +1218,7 @@ stellartron.netlify.app
 *.stepchain.co
 *.stepn.netlify.app
 *.stockassets.exchange
+*.stockcollapse.com
 *.stocksequities.com
 *.stocks.estate
 *.stocks.foundation
@@ -1297,6 +1310,7 @@ trumpcoin.stellarmint.io
 *.trump.investments
 *.trump-real.estate
 *.trump-realestate.com
+*.trumpstellar.net
 *.trumpstellar.org
 *.trumptokens.org
 *.trust-bank.org
@@ -1320,6 +1334,7 @@ trumpcoin.stellarmint.io
 *.twistedstellar.com
 *.u1timatum.network
 *.uaebricsglobal.com
+*.ubs-innovation.capital
 *.ubsinnovations.capital
 *.ubslnnovations.capital
 *.ufc.stellarassets.org
@@ -1402,6 +1417,7 @@ trumpcoin.stellarmint.io
 *.velochain.lumens-projects.com
 *.velochain.net
 *.velochain.network
+*.velo-chain.org
 *.velochain.tech
 *.velo.co.com
 *.velo.com.de
@@ -1409,9 +1425,11 @@ trumpcoin.stellarmint.io
 *.velo.exchange
 *.velofinance.co
 *.velofinance.net
+*.velo-finance.org
 *.velofinance.tech
 *.velo.financial
 *.velofinancial.org
+*.velo.forex
 *.velo.fund
 *.velohub.lumens-dex.com
 *.velohub.lumens-projects.com
@@ -1422,6 +1440,7 @@ trumpcoin.stellarmint.io
 *.velolab.lumens-projects.com
 *.velolab.lumens-stellar.com
 *.velolab.lumensworld.org
+*.velo-lab.net
 *.velolab.network
 *.velolab.newstellarhq.com
 *.velo-laboratory.com
@@ -1437,6 +1456,7 @@ trumpcoin.stellarmint.io
 *.velolabs.lumens-stellar.com
 *.velolabs.net
 *.velolabs.network
+*.velo-labs.org
 *.velolabs.org
 *.velolabs.stellar-mint.org
 *.velolabs.stellar-network.org
@@ -1463,12 +1483,14 @@ trumpcoin.stellarmint.io
 *.velonet.stellar-mint.org
 *.velonet.tech
 *.velo.network
+*.velonetwork.co
 *.velo-network.com
 *.velonetwork.digital
 *.velonetwork.io
 *.velo-network.org
 *.velonetwork.org
 *.velonetworks.co
+*.velonetworks.digital
 *.velonetworks.io
 *.velonetworks.org
 *.velonetworks.tech
@@ -1478,6 +1500,7 @@ trumpcoin.stellarmint.io
 *.velopayment.co
 *.velo-payment.com
 *.velopayment.digital
+*.velopayment.io
 *.velo-payment.org
 *.velopayment.org
 *.velopayments.digital
@@ -1492,6 +1515,7 @@ trumpcoin.stellarmint.io
 *.veloprotocol.digital
 *.veloprotocol.net
 *.veloprotocol.newstellarhq.com
+*.velo-protocol.org
 *.veloprotocol.org
 *.velo-protocol.tech
 *.veloprotocol.tech
@@ -1520,6 +1544,7 @@ trumpcoin.stellarmint.io
 *.velotoken.lumens-dex.com
 *.velotoken.lumens-projects.com
 *.velotoken.lumens-stellar.com
+*.velotoken.lumensworld.org
 *.velotoken.net
 *.velo-token.org
 *.velotoken.org
@@ -1529,7 +1554,9 @@ trumpcoin.stellarmint.io
 *.velotoken.velo.co.com
 *.velotoken.velo.us.com
 *.velo.trading
+*.velo.uk.com
 *.velo.uk.net
+*.velo.us.com
 velo.us.org
 *.velo.velopayments.io
 *.velo.velotoken.co
@@ -1576,6 +1603,7 @@ velo.us.org
 *.whlplash.technology
 *.wines.stellar-dex.io
 *.wirexstellar.com
+*.wlfistellar.com
 *.wlfistellar.org
 *.world-indus.exchange
 *.world-wide.estate
@@ -1622,6 +1650,7 @@ xlmhbar.netlify.app
 *.xlmlostr.netlify.app
 xlmmatic.netlify.app
 xlmmiota.netlify.app
+*.xlmone.com
 *.xlmorphixstellar.com
 *.xlm.services
 *.xlm.space-tech.exchange
