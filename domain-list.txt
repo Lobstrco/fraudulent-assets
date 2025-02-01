@@ -3,6 +3,7 @@
 *.1933gaudens.stellarmint.io
 *.56d7pc.litemint.store
 *.aber.fund
+*.ach.tomlhosting.co
 *.action-patriots.com
 *.adx-stellar.com
 *.afreum.net
@@ -10,6 +11,7 @@
 *.agriogenesis.in
 *.agrogenesis.bond
 *.agrogenesis.in
+*.agrogenesis.org
 *.aiphalumen.tech
 *.airdrop-info.vwv.pw
 *.airdrop-stellar.org
@@ -71,6 +73,7 @@ atmosphere.stellarmint.io
 *.bitcoinstocks.network
 *.bitcoin-stocks.xyz
 *.bitcoinstoks.com
+*.bitt.exchange
 *.bitt.network
 *.blackbox.exchange
 *.blackbox-exchange.com
@@ -320,6 +323,7 @@ fchainx.io
 *.flarestellar.com
 *.flarestellar.xyz
 *.flowerlife.xmint.io
+*.forexstellar.exchange
 *.france-assets.com
 *.franklintempleton.com.co
 *.g7digital.pw
@@ -487,6 +491,7 @@ italy.stellar-dex.io
 *.lcx.digital
 *.lcxprotocol.com
 *.lcxprotocol.digital
+*.lcxprotocol.org
 *.ledgerone.com
 *.limitedstellar.com
 *.liquidstellars.com
@@ -504,6 +509,7 @@ italy.stellar-dex.io
 *.lobstr.com.co
 *.lobstr.digital
 *.lobstr.exchange
+*.lobstrfinance.com
 *.lobstr.forex
 *.lobstrnetwork.com
 *.lobstrr.co
@@ -553,6 +559,7 @@ luxor.tomlhosting.co
 *.mallstellar.com
 *.mancityfan.us
 *.marvel.stellarassets.org
+*.masguardian.org
 *.mastercard.co.com
 *.master-node.org
 *.masterstellar.com
@@ -591,6 +598,7 @@ moneygram.tomlhostlng.co
 *.moneygram-usdc.org
 *.monopolies.indus.exchange
 *.monopolies.stellar-dex.io
+*.moonbunny.org
 *.motorrad.stellarassets.org
 *.musk.cfd
 *.mutualfunds.stellar-dex.io
@@ -928,6 +936,7 @@ russia.usdn.tech
 *.stellarbank.asia
 *.stellarbase.org
 *.stellarbeat.info
+*.stellarbelarus.com
 *.stellar-belarus.org
 *.stellar-bitcoin.org
 *.stellarbitcoin.org
@@ -977,6 +986,7 @@ russia.usdn.tech
 *.stellareba.com
 *.stellarecuador.org
 *.stellarenigio.com
+*.stellar.estate
 *.stellar-estate.world
 *.stellaretfs.com
 *.stellar-etfs.org
@@ -1198,6 +1208,7 @@ stellartron.netlify.app
 *.stellarvelo.org
 *.stellarvelo.tech
 *.stellarvenezuela.com
+*.stellar-voltron.pw
 *.stellarwallet.cc
 *.stellarwallet.exchange
 *.stellar-whiplash.com
@@ -1229,6 +1240,7 @@ stellartron.netlify.app
 *.stocksstellar.exchange
 *.stocks-stellar.org
 *.stocksstellar.org
+*.stockstellar.org
 *.stocks.xassets.co
 *.strangeworks.digital
 *.stripestellar.com
@@ -1347,6 +1359,7 @@ trumpcoin.stellarmint.io
 *.ultimatum.network
 *.ultimatums.network
 *.ultlmatum.network
+*.ultraastellar.com
 *.ultracapital.cfd
 *.ultracapital.io
 *.ultracapital.site
