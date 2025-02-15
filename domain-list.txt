@@ -18,6 +18,7 @@
 *.akash-network
 *.algo-dex.org
 *.algodex.trade
+*.algostellar.com
 *.alphabetstellar.org
 *.alrajhistellar.com
 *.anchored-tokens.org
@@ -140,6 +141,7 @@ atmosphere.stellarmint.io
 *.bulgaria-minerals.digital
 *.bulletproof-trump.org
 *.byte.xlmplay.top
+*.cardanostellar.com
 *.casper.gold
 *.cb-bitnickel.co
 *.cb-bitnlckel.co
@@ -357,6 +359,7 @@ fchainx.io
 *.global-stellarnetwork.com
 *.globalstellar-network.com
 *.global-stellar.org
+*.glp-stellar.com
 *.go-dls.com
 *.gold-indus.bond
 *.goldindus.bond
@@ -367,6 +370,7 @@ gold.stellarmint.io
 *.grayscale.co.com
 *.gulfstreamstellar.org
 *.gwallet.tech
+*.hederaasset.com
 *.hederastellar.com
 *.helium.tech
 *.hiddenstellar.com
@@ -542,6 +546,7 @@ loobstrr.netlify.app
 *.lumensly.com
 *.lumens-network.com
 *.lumensnetwork.com
+*.lumens-project.com
 *.lumens-projects.com
 *.lumens-stellar.com
 *.lumens-stellarnetwork.com
@@ -634,6 +639,7 @@ moneygram.tomlhostlng.co
 *.nw3b.com
 *.oceantokens.co
 *.oil.stellar-commodities.com
+*.ondostellarost.com
 *.oneswissbank.finance
 *.openai-assets.com
 *.operationx.xmint.io
@@ -809,6 +815,7 @@ qsi.xmint.io
 *.rippleusd.org
 *.ripple.us.org
 *.rivalcoins.io
+*.rivegamesmarket.com
 *.rlpple.org
 *.rlusd.capital
 *.ro-stellar.co
@@ -834,6 +841,7 @@ russia.usdn.tech
 *.saudi-stellar.digital
 *.sber.global
 *.sbistellar.com
+*.secgotitdown.net
 *.servenow.lol
 *.sgpmx.fund
 *.sgxpm.fund
@@ -879,6 +887,7 @@ russia.usdn.tech
 *.s-switzerland.com
 *.stablestellar.com
 *.stablestellar.org
+*.staking-stellar.com
 *.starbridge.host
 *.starbridge.one
 *.starbridge.pw
@@ -1299,6 +1308,7 @@ tech.lndus.org
 *.tempocrypto.org
 *.tendaogoid.org
 *.tendaogold.org
+*.terra-genesis.io
 *.teslastellar.com
 *.testlar.com
 *.thecontinuum.ca
@@ -1323,6 +1333,7 @@ tech.lndus.org
 *.to-stellar.org
 *.tradelens.io
 *.transafrica.vip
+*.treasuryau.info
 *.trump347.com
 trumpcoin.stellarmint.io
 *.trump.forex
@@ -1337,6 +1348,7 @@ trumpcoin.stellarmint.io
 *.trust-coin.net
 *.trustlines.xyz
 *.truthsocial.bond
+*.tunechainmarket.com
 *.turbotoken.exchange
 *.turkey-stellar.com
 *.turkeystellar.com
@@ -1423,6 +1435,7 @@ trumpcoin.stellarmint.io
 *.vebrfr.digital
 *.vebrfs.digital
 *.vel0.org
+*.velo-asset.com
 *.veloasset.com
 *.veloasset.digital
 *.veloasset.net
@@ -1518,8 +1531,10 @@ trumpcoin.stellarmint.io
 *.velometals.com
 *.velomint.lumens-projects.com
 *.velomint.lumensworld.org
+*.velomints.lumensworld.org
 *.velonet.digital
 *.velonet.live
+*.velonet.lumensworld.org
 *.velo-net.net
 *.velonet.network
 *.velo-net.org
@@ -1597,6 +1612,7 @@ trumpcoin.stellarmint.io
 *.velotoken.lumens-projects.com
 *.velotoken.lumens-stellar.com
 *.velotoken.lumensworld.org
+*.velo-token.net
 *.velotoken.net
 *.velo-token.org
 *.velotoken.org
@@ -1618,6 +1634,7 @@ velo.us.org
 *.veloxionlabs.com
 *.veloxionlabs.org
 *.veloxion.lumens-projects.com
+*.veloxion.lumensworld.org
 *.veloxion.xmintlumens.com
 *.velox.velo.us.com
 *.veloxwave.com
@@ -1674,6 +1691,7 @@ velo.us.org
 *.xcrypto.exchange
 *.xcrypto.gold
 *.xdcc0.org
+*.xdcco.com
 *.xdc-co.net
 *.xdc-co.org
 *.xdcco.org
@@ -1687,6 +1705,7 @@ velo.us.org
 *.xinfinasset.com
 *.xinfin.claims
 *.xinfinstellar.com
+*.xinfinxdc.com
 *.xinfinxrp.com
 *.xlm250.com​
 *.xlm5.live
